@@ -80,7 +80,7 @@ title: "index"
 [Alamance County Community Bail Fund](Alamance County Community Bail Fund )
 
 ### Durham
-[North Carolina Community Bail Fund of Durham] (https://www.nccbailfund.org/)
+[North Carolina Community Bail Fund of Durham](https://www.nccbailfund.org/)
 
 ## Oregon
 ### Portland
