@@ -17,14 +17,13 @@ title: "index"
 ## Alabama
 [Montgomery Bail Out Fund](https://www.mgmbailout.com/)
 
-
 ## Arizona
 [Tuscan Second Chance Community Bail Fund](https://watchtucson.com/)
 
 ## Colorado
 [Colorado Freedom Fund](https://fundly.com/coloradofreedom)
 
-# Connecticut
+## Connecticut
 [Connecticut Bail Fund](http://www.ctbailfund.org/)
 
 ## Hawai'i
@@ -88,7 +87,7 @@ title: "index"
 [Portland Freedom Fund](https://www.portlandfreedomfund.org/donate/)
 
 ## Pennslyvania
-###Dauphin County
+### Dauphin County
 [Dauphin County Bail Fund](Dauphin County Bail Fund )
 
 ### Philadelphia
