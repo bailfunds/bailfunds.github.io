@@ -20,7 +20,7 @@ title: "List of Bail Funds"
 ## Arizona
 [Tuscan Second Chance Community Bail Fund](https://watchtucson.com/)
 
-# California 
+## California 
 
 [Al Otro Lado Vida Libre Bond Fund](https://alotrolado.networkforgood.com/)
 
