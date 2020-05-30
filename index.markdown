@@ -5,7 +5,10 @@ title: "index"
 
 # List of Bail Funds Across the Country
 
-*This list is intended to be comprehensive. If there is something missing, please contact [@abhiprofen](https://twitter.com/abhiprofen) or make a pull request on the repo*
+* TOC
+{:toc}
+
+*This list is intended to be comprehensive. If there is something missing, please contact [@abhiprofen on twitter](https://twitter.com/abhiprofen) or make a pull request on the [github repository](https://github.com/bailfunds/bailfunds.github.io)*
 
 ## National
 [The Bail Project](https://secure.givelively.org/donate/the-bail-project)
