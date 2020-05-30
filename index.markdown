@@ -4,6 +4,7 @@ title: "index"
 ---
 
 # List of Bail Funds Across the Country
+{:.no_toc}
 
 * TOC
 {:toc}
