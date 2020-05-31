@@ -122,9 +122,6 @@ title: "List of Bail Funds for Protestors"
 ## Minnesota
 * [Minnesota Freedom Fund](https://minnesotafreedomfund.org/) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
 
-## Mississippi
-* [Mississippi Bail Fund Collective](https://secure.actblue.com/donate/ms-bail-fund)
-
 ## Missouri
 ### Kansas City
 * [#ICantBreath KC Solidarity Fund](https://www.paypal.com/pools/c/8dFiVVyGMN)
