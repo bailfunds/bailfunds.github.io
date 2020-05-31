@@ -84,6 +84,10 @@ title: "List of Bail Funds"
 ### Rockford 
 * [Winnebago Bond Project](https://www.wincoilbondproject.org/donate)
 
+## Indiana
+### Indianapolis
+* [Bail Project](https://secure.givelively.org/donate/the-bail-project)
+
 ## Kentucky
 ### Louisville
 * [Louisville Community Bail Fund](https://actionnetwork.org/fundraising/louisville-community-bail-fund-2)
