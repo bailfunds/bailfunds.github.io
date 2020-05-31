@@ -93,7 +93,7 @@ title: "List of Bail Funds"
 * [Detriot Justice Center](https://donorbox.org/support-the-detroit-justice-center-1)
 
 ## Minnesota
-* [Minnesota Freedom Fund](https://minnesotafreedomfund.org/)
+* [Minnesota Freedom Fund](https://minnesotafreedomfund.org/) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
 
 ## Missouri
 ### Columbia
@@ -110,7 +110,7 @@ title: "List of Bail Funds"
 
 ## New York
 ### New York City
-* [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form)
+* [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
 * [Emergency Release Fund](https://emergencyreleasefund.com/)
 
 ### Tompkins County
