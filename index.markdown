@@ -20,7 +20,7 @@ title: "List of Bail Funds"
 ## Arizona
 * [Tuscan Second Chance Community Bail Fund](https://watchtucson.com/)
 
-## California 
+## California
 
 * [Al Otro Lado Vida Libre Bond Fund](https://alotrolado.networkforgood.com/)
 
@@ -112,6 +112,8 @@ title: "List of Bail Funds"
 ### New York City
 * [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
 * [Emergency Release Fund](https://emergencyreleasefund.com/)
+* [Free Them All](https://freethemall4publichealth.org/)
+* [COVID Bailout](https://www.covidbailout.org/)
 
 ### Tompkins County
 * [OAR of Tompkins County Bail Fund](https://www.oartompkins.org/civil-liberties/bail-fund/)
