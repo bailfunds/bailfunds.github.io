@@ -13,6 +13,10 @@ title: "List of Bail Funds for Protestors"
 * [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *Centralized national organization with regular bail posting in a number of individual cities, which may be providing protest support depending on city and bail amounts.*
 
 ## Alabama
+### Birmingham 
+* [No One Left Behind Fund](https://venmo.com/starrobb)
+
+### Montgomery
 * [Montgomery Bail Out Fund](https://www.mgmbailout.com/)
 
 ## Arizona
@@ -109,8 +113,8 @@ title: "List of Bail Funds for Protestors"
 
 ## Missouri
 ### Kansas City
+* [#ICantBreath KC Solidarity Fund](https://www.paypal.com/pools/c/8dFiVVyGMN)
 * [Kansas City Community Bail Fund](https://www.kccommunitybailfund.com/)
-* [Reale Justice Community Bail Fund](https://www.paypal.com/pools/c/8dFiVVyGMN)
 * [One Struggle KC Legal Fund](https://actionnetwork.org/fundraising/donate-to-the-one-struggle-kc-legal-fund)
 
 ## Nebraska
@@ -173,6 +177,7 @@ title: "List of Bail Funds for Protestors"
 * [Philadelphia Bail Fund](https://www.phillybailfund.org/)
 
 ### Pittsburgh
+* [Bukit Bail Fund](https://www.bukitbailfund.org/donate) — *Preferred fund*
 * [Aftercare Jail Support](https://www.gofundme.com/f/aftercare-for)
 
 ## Rhode Island
@@ -189,6 +194,9 @@ title: "List of Bail Funds for Protestors"
 ## Texas
 ### Dallas
 * [Luke 4:18 Bail Fund](https://faithintx.org/bailfund/)
+
+### El Paso
+* [Fianza Fund](https://venmo.com/fianza-fund)
 
 ## Utah
 ### Salt Lake City
