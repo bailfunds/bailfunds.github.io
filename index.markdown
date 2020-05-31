@@ -21,6 +21,10 @@ title: "List of Bail Funds"
 ## Arizona
 * [Tucson Second Chance Community Bail Fund](https://watchtucson.com/)
 
+## Arkansas
+### Little Rock
+* [Little Rock Freedom Fund](https://cash.app/$LRFreedomFund)
+
 ## California
 
 * [Al Otro Lado Vida Libre Bond Fund](https://alotrolado.networkforgood.com/)
