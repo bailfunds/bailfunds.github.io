@@ -115,6 +115,7 @@ title: "List of Bail Funds"
 ## New York
 ### New York City
 * [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
+* [Liberty Fund NYC](https://www.libertyfund.nyc/)
 * [Emergency Release Fund](https://emergencyreleasefund.com/)
 
 ### Buffalo 
@@ -134,8 +135,10 @@ title: "List of Bail Funds"
 * [North Carolina Community Bail Fund of Durham](https://www.nccbailfund.org/)
 
 ## Ohio
-### Colombus
 * [Ohio Freedom Fund](https://www.paypal.me/columbusfreedomfund?fbclid=IwAR0hQlXIO1B9N0VgmyDn4kEA8Mw3jDsePbmhh3GUqe3iktfXll0EVV7H0e0)
+
+### Colombus
+* [Colombus Freedom Fund](https://www.paypal.me/columbusfreedomfund)
 
 ## Oregon
 ### Portland
