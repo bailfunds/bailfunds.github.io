@@ -19,6 +19,10 @@ title: "List of Bail Funds"
 * [Montgomery Bail Out Fund](https://www.mgmbailout.com/)
 
 ## Arizona
+### Phoenix
+* [Black People's Justice Fund](https://secure.everyaction.com/lFZFGA1BpUa9kyYYgSxSKw2?fbclid=IwAR3YvwJy2ZFuGfVk0BL1rWX8UYOOx2Mbv8NVEV4MjlEXCSHDv-lx8l1H6IM)
+ 
+### Tucson
 * [Tucson Second Chance Community Bail Fund](https://watchtucson.com/)
 
 ## Arkansas
