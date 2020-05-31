@@ -78,6 +78,10 @@ title: "List of Bail Funds for Protestors"
 * [Hawai'i Community Bail Fund](https://hawaiicommunitybailfund.org/)
 
 ## Illinois
+
+### Champaign County
+* [Champaign County Bailout Coalition] (https://champaigncountybailoutcoalition.wordpress.com/)
+
 ### Chicago
 * [Chicago Community Bond Fund](https://chicagobond.org/)
 
