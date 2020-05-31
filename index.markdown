@@ -37,7 +37,7 @@ title: "List of Bail Funds"
 * [Silicon Valley DSA Bail Fund](https://siliconvalleydsa.org/donations/)
 
 ### Los Angeles
-* [Peoples City Council Freedom Fund](https://www.gofundme.com/f/peoples-city-council-ticket-fund?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet)
+* [Peoples City Council Freedom Fund](https://www.gofundme.com/f/peoples-city-council-ticket-fund)
 
 ### San Diego
 * [San Diego Community Fund](https://www.gofundme.com/f/help-us-raise-funds-to-support-our-community)
@@ -46,7 +46,7 @@ title: "List of Bail Funds"
 * [Colorado Freedom Fund](https://fundly.com/coloradofreedom)
 
 ### Denver
-* [BLM Denver Fund](https://www.gofundme.com/f/funds-for-protesters-against-police-brutality?utm_source=twitter&utm_medium=social&utm_campaign=m_pd+share-sheet)
+* [BLM Denver Fund](https://www.gofundme.com/f/funds-for-protesters-against-police-brutality)
 
 ## Connecticut
 * [Connecticut Bail Fund](http://www.ctbailfund.org/)
@@ -62,7 +62,7 @@ title: "List of Bail Funds"
 * [Alachua County Bond Fund](https://actionnetwork.org/fundraising/alachua-county-covid-19-bond-fund)
 
 ### Duval County
-* [Jacksonville Community Action Committee](https://www.gofundme.com/f/duval-bail-out?utm_source=twitter&utm_medium=social&utm_campaign=p_cp+share-sheet)
+* [Jacksonville Community Action Committee](https://www.gofundme.com/f/duval-bail-out)
 
 ### Miami
 * [(F)empower Community Bond Fund](https://www.paypal.me/freethemall)
@@ -110,8 +110,8 @@ title: "List of Bail Funds"
 * [Bail Project](https://secure.givelively.org/donate/the-bail-project)
 
 ### Detroit
-* [Bail for Detroit's Protests](https://www.gofundme.com/f/bail-for-detroit-protests?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)
-* [Detroit Bail Fund](https://www.gofundme.com/f/detroits-bail-fund?utm_medium=sms&utm_source=product&utm_campaign=p_susi-sms-welcome)
+* [Bail for Detroit's Protests](https://www.gofundme.com/f/bail-for-detroit-protests)
+* [Detroit Bail Fund](https://www.gofundme.com/f/detroits-bail-fund)
 * [Detroit Justice Center](https://donorbox.org/support-the-detroit-justice-center-1)
 
 ## Minnesota
@@ -178,7 +178,7 @@ title: "List of Bail Funds"
 * [BLM Tulsa](https://www.paypal.me/BLMOKC)
 
 ## Ohio
-* [Ohio Freedom Fund](https://www.paypal.me/columbusfreedomfund?fbclid=IwAR0hQlXIO1B9N0VgmyDn4kEA8Mw3jDsePbmhh3GUqe3iktfXll0EVV7H0e0)
+* [Ohio Freedom Fund](https://www.paypal.me/columbusfreedomfund)
 
 ### Canton / Akron
 * [Canton/Akron Bail Fund](https://www.paypal.com/pools/c/8pz5hovrmY)
@@ -195,7 +195,7 @@ title: "List of Bail Funds"
 ## Oregon
 ### Portland
 * [Portland Freedom Fund](https://www.portlandfreedomfund.org/donate/)
-* [Portland Bail Fund](https://www.gofundme.com/f/pdx-protest-bail-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)
+* [Portland Bail Fund](https://www.gofundme.com/f/pdx-protest-bail-fund)
 
 ## Pennsylvania
 ### Dauphin County
@@ -207,6 +207,7 @@ title: "List of Bail Funds"
 
 ### Pittsburgh
 * [Bukit Bail Fund of Pittsburgh](https://www.bukitbailfund.org/)
+* [Aftercare Jail Support](https://www.gofundme.com/f/aftercare-for)
 
 ## Rhode Island
 * [FANG Community Bail Fund](https://www.gofundme.com/f/fangbailfund)
@@ -235,7 +236,7 @@ title: "List of Bail Funds"
 
 ## Utah
 ### Salt Lake City
-* [Salt Lake City Community Bail](https://www.gofundme.com/f/c2mvvn-support-protesters-arrested-by-slcpd?utm_source=twitter&utm_medium=social&utm_campaign=p_cp+share-sheet)
+* [Salt Lake City Community Bail](https://www.gofundme.com/f/c2mvvn-support-protesters-arrested-by-slcpd)
 
 ## Washington
 * [Northwest Community Bail Fund](https://www.nwcombailfund.org/)
@@ -255,7 +256,12 @@ title: "List of Bail Funds"
 * [Roanoke Community Bail Fund](https://chuffed.org/project/rjs-bail-fund)
 
 ## Wisconsin
+### Madison
 * [Free the 350 Bail Fund](https://freethe350bailfund.wordpress.com/)
 
 ### Milwaukee
-* [Milwaukee Freedom Fund ](https://fundrazr.com/mkefreedomfund?ref=ab_79CRGa_ab_8dfq3zLk9z18dfq3zLk9z1)
+* [Milwaukee Freedom Fund](https://fundrazr.com/mkefreedomfund)
+
+## Canada
+### Toronto
+* [Toronto Protestor Bail Fund](https://www.gofundme.com/f/toronto-protestor-bail-fund)
