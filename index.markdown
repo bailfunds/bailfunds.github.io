@@ -11,6 +11,7 @@ title: "List of Bail Funds for Protestors"
 * [National Bail Fund Network](https://www.communityjusticeexchange.org/nbfn-directory) — *Avaliable to assist with coordination*
 * [Nationwide Bail Fund Split](https://secure.actblue.com/donate/bail_funds_george_floyd) — *If you have no particular place to donate, this link will split your donation among several Bail Funds*
 * [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *Centralized national organization with regular bail posting in a number of individual cities, which may be providing protest support depending on city and bail amounts.*
+* [LGBTQ Freedom Fund] (https://www.lgbtqfund.org/donate-1) - *Based in FL, this organization helps post bail and secure the safety and liberty of low-income individuals in U.S. jails and immigration facilities, with focus on LGBTQ people. Active in many states (CA, NV, AZ, NM, CO, TX, LA, WI, IL, MI, AL, GA, FL, VA, CT)*
 
 ## Alabama
 ### Birmingham 
@@ -31,7 +32,6 @@ title: "List of Bail Funds for Protestors"
 * [Little Rock Freedom Fund](https://cash.app/$LRFreedomFund)
 
 ## California
-*Due to the COVID-19 Crisis, Bail in California has been set to $0. The funds here are meant to cover non-Bail expenses for protestors*
 ### Bay Area
 * [Anti-Police Terror Project](http://www.antipoliceterrorproject.org/donate)
 * [Bay Area Anti- Repression Committee Bail Fund](https://rally.org/ARCbailfund)
