@@ -101,7 +101,7 @@ title: "List of Bail Funds"
 
 ## Missouri
 ### Columbia
-* [Race Matters Friends Community Bail Fund](Race Matters Friends Community Bail Fund - Columbia, MO )
+* [Race Matters Friends Community Bail Fund](https://racemattersfriends.com/about/)
 
 ### Kansas City
 * [Kansas City Community Bail Fund](https://www.kccommunitybailfund.com/)
