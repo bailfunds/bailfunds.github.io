@@ -18,7 +18,7 @@ title: "List of Bail Funds"
 * [Montgomery Bail Out Fund](https://www.mgmbailout.com/)
 
 ## Arizona
-* [Tuscan Second Chance Community Bail Fund](https://watchtucson.com/)
+* [Tucson Second Chance Community Bail Fund](https://watchtucson.com/)
 
 ## California 
 
