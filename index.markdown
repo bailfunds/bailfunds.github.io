@@ -46,6 +46,9 @@ title: "List of Bail Funds for Protestors"
 ### San Diego
 * [San Diego Community Fund](https://www.gofundme.com/f/help-us-raise-funds-to-support-our-community)
 
+### Sacramento
+* [NorCal Resist Activist BAIL & ICE Bond Fund](https://actionnetwork.org/fundraising/ncrbailfund/)
+
 ## Colorado
 * [Colorado Freedom Fund](https://fundly.com/coloradofreedom)
 
@@ -95,6 +98,9 @@ title: "List of Bail Funds for Protestors"
 ### Louisville
 * [Louisville Community Bail Fund](https://actionnetwork.org/fundraising/louisville-community-bail-fund-2)
 
+### Lexington
+* [Lexington Bail Fund](https://actionnetwork.org/fundraising/lexington-bail-fund?fbclid=IwAR3L2Ciw97_cBM5M1pAAy16O9PVYiJSIl-qSjohymGOm4qxVioJHrzAOyYM)
+
 ## Louisiana
 ### New Orleans
 * [New Orleans Safety & Freedom Fund](https://donorbox.org/safety-freedom-fund-eoy)
@@ -134,7 +140,7 @@ title: "List of Bail Funds for Protestors"
 
 ## New York
 ### New York City
-* [Free Them All 2020 ](https://cash.app/$bailoutnycmay) — *This is the most supported fund by multiple collectives*
+* [Free Them All 2020 ](https://cash.app/$bailoutnycmay) — *Fund has been closed by an influx of donations, suggested donations to other cities*
 * [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
 
 ### Buffalo
@@ -209,7 +215,7 @@ title: "List of Bail Funds for Protestors"
 * [Fianza Fund](https://venmo.com/fianza-fund)
 
 ### Harris, Dallas, Bexar Counties
-* [Texas Organziing Project Bailout Fund](http://organizetexas.org/topcommunitybailoutfund/)
+* [Texas Organizing Project Bailout Fund](http://organizetexas.org/topcommunitybailoutfund/)
 
 ## Utah
 ### Salt Lake City
