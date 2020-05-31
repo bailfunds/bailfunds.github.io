@@ -18,7 +18,7 @@ title: "List of Bail Funds"
 * [Montgomery Bail Out Fund](https://www.mgmbailout.com/)
 
 ## Arizona
-* [Tuscan Second Chance Community Bail Fund](https://watchtucson.com/)
+* [Tucson Second Chance Community Bail Fund](https://watchtucson.com/)
 
 ## California 
 
@@ -101,7 +101,7 @@ title: "List of Bail Funds"
 
 ## Missouri
 ### Columbia
-* [Race Matters Friends Community Bail Fund](Race Matters Friends Community Bail Fund - Columbia, MO )
+* [Race Matters Friends Community Bail Fund](https://racemattersfriends.com/about/)
 
 ### Kansas City
 * [Kansas City Community Bail Fund](https://www.kccommunitybailfund.com/)
