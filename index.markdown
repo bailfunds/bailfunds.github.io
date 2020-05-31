@@ -27,9 +27,10 @@ title: "List of Bail Funds"
 ### Los Angeles
 * [Peoples City Council Freedom Fund](https://www.gofundme.com/f/peoples-city-council-ticket-fund?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet)
 
-### San Jose
+### San Jose / Oakland
 * [Anti-Police Terror Project](http://www.antipoliceterrorproject.org/donate)
 * [Silicon Valley DSA Bail Fund](https://siliconvalleydsa.org/donations/)
+* [People's Programs Oakland](https://www.paypal.me/peoplesprograms)
 
 ## Colorado
 * [Colorado Freedom Fund](https://fundly.com/coloradofreedom)
@@ -112,6 +113,9 @@ title: "List of Bail Funds"
 ### New York City
 * [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
 * [Emergency Release Fund](https://emergencyreleasefund.com/)
+
+### Buffalo 
+* [SURJ Buffalo Bail Fund](https://fundrazr.com/11fcAd?ref=ab_e8vImf_ab_8dfq3zLk9z18dfq3zLk9z1)
 
 ### Tompkins County
 * [OAR of Tompkins County Bail Fund](https://www.oartompkins.org/civil-liberties/bail-fund/)
