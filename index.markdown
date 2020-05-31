@@ -204,6 +204,9 @@ title: "List of Bail Funds for Protestors"
 ### El Paso
 * [Fianza Fund](https://venmo.com/fianza-fund)
 
+### Harris, Dallas, Bexar Counties
+* [Texas Organziing Project Bailout Fund](http://organizetexas.org/topcommunitybailoutfund/)
+
 ## Utah
 ### Salt Lake City
 * [Salt Lake City Community Bail](https://www.gofundme.com/f/c2mvvn-support-protesters-arrested-by-slcpd)
