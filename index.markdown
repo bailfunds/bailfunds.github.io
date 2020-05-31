@@ -96,7 +96,7 @@ title: "List of Bail Funds"
 ## Minnesota
 * [Minnesota Freedom Fund](https://minnesotafreedomfund.org/) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
 
-## Mississippi 
+## Mississippi
 * [Mississippi Bail Fund Collective](https://secure.actblue.com/donate/ms-bail-fund)
 
 ## Missouri
@@ -124,7 +124,7 @@ title: "List of Bail Funds"
 * [Free Them All](https://freethemall4publichealth.org/)
 * [COVID Bailout](https://www.covidbailout.org/)
 
-### Buffalo 
+### Buffalo
 * [SURJ Buffalo Bail Fund](https://fundrazr.com/11fcAd?ref=ab_e8vImf_ab_8dfq3zLk9z18dfq3zLk9z1)
 
 ### Tompkins County
@@ -135,7 +135,7 @@ title: "List of Bail Funds"
 
 ## North Carolina
 ### Alamance County
-* [Alamance County Community Bail Fund](Alamance County Community Bail Fund )
+* [Alamance County Community Bail Fund](https://downhomenc.org/bailfund/)
 
 ### Durham
 * [North Carolina Community Bail Fund of Durham](https://www.nccbailfund.org/)
@@ -153,7 +153,7 @@ title: "List of Bail Funds"
 
 ## Pennslyvania
 ### Dauphin County
-* [Dauphin County Bail Fund](Dauphin County Bail Fund )
+* [Dauphin County Bail Fund](https://dauphincountybailfund.org/)
 
 ### Philadelphia
 * [Philadelphia Community Bail Fund](https://www.phillybailout.com/)
