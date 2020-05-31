@@ -96,6 +96,9 @@ title: "List of Bail Funds"
 ## Minnesota
 * [Minnesota Freedom Fund](https://minnesotafreedomfund.org/) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
 
+## Mississippi 
+* [Mississippi Bail Fund Collective](https://secure.actblue.com/donate/ms-bail-fund)
+
 ## Missouri
 ### Columbia
 * [Race Matters Friends Community Bail Fund](Race Matters Friends Community Bail Fund - Columbia, MO )
