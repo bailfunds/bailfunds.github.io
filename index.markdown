@@ -140,6 +140,7 @@ title: "List of Bail Funds for Protestors"
 ### New York City
 * [Free Them All 2020 ](https://cash.app/$bailoutnycmay) — *This was the main protest support fund. As of Sunday evening, they have closed down donations and are asking people to support elsewhere.*
 * [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
+* [COVID Bail Out NYC](https://www.covidbailout.org/)
 
 ### Buffalo
 * [SURJ Buffalo Bail Fund](https://fundrazr.com/11fcAd?ref=ab_e8vImf_ab_8dfq3zLk9z18dfq3zLk9z1)
