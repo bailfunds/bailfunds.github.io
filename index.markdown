@@ -108,6 +108,10 @@ title: "List of Bail Funds"
 * [Reale Justice Community Bail Fund](https://www.paypal.com/pools/c/8dFiVVyGMN)
 * [One Struggle KC Legal Fund](https://actionnetwork.org/fundraising/donate-to-the-one-struggle-kc-legal-fund)
 
+## Nebraska
+### Omaha
+* [Neighbors for Common Good Bail Fund](https://www.paypal.me/neleftcoalition) — *Put "Bail" on Memo Line*
+
 ## Nevada
 ### Las Vegas
 * [Vegas Freedom Fund](https://secure.actblue.com/donate/vegasfreedomfund)
