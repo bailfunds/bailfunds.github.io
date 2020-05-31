@@ -13,6 +13,7 @@ title: "List of Bail Funds"
 
 ## National
 * [The Bail Project](https://secure.givelively.org/donate/the-bail-project)
+* [National Bailout Fund](http://nationalbailot.org/) — *This website is currently down*
 
 ## Alabama
 * [Montgomery Bail Out Fund](https://www.mgmbailout.com/)
@@ -24,13 +25,17 @@ title: "List of Bail Funds"
 
 * [Al Otro Lado Vida Libre Bond Fund](https://alotrolado.networkforgood.com/)
 
+### Bay Area
+* [Anti-Police Terror Project](http://www.antipoliceterrorproject.org/donate)
+* [Bay Area Anti- Repression Committee Bail Fund](https://rally.org/ARCbailfund)
+* [People's Programs Oakland](https://www.paypal.me/peoplesprograms)
+* [Silicon Valley DSA Bail Fund](https://siliconvalleydsa.org/donations/)
+
 ### Los Angeles
 * [Peoples City Council Freedom Fund](https://www.gofundme.com/f/peoples-city-council-ticket-fund?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet)
 
-### San Jose / Oakland
-* [Anti-Police Terror Project](http://www.antipoliceterrorproject.org/donate)
-* [Silicon Valley DSA Bail Fund](https://siliconvalleydsa.org/donations/)
-* [People's Programs Oakland](https://www.paypal.me/peoplesprograms)
+### San Diego
+* [San Diego Community Fund](https://www.gofundme.com/f/help-us-raise-funds-to-support-our-community)
 
 ## Colorado
 * [Colorado Freedom Fund](https://fundly.com/coloradofreedom)
@@ -140,8 +145,18 @@ title: "List of Bail Funds"
 ### Durham
 * [North Carolina Community Bail Fund of Durham](https://www.nccbailfund.org/)
 
+### Raleigh / Chapel Hill
+* [The Anti-Racist Activist Fund](https://www.takeactionch.com/donations)
+
+## Ohklahoma
+### Tulsa
+* [BLM Tulsa](https://www.paypal.me/BLMOKC)
+
 ## Ohio
 * [Ohio Freedom Fund](https://www.paypal.me/columbusfreedomfund?fbclid=IwAR0hQlXIO1B9N0VgmyDn4kEA8Mw3jDsePbmhh3GUqe3iktfXll0EVV7H0e0)
+
+### Cleveland 
+* [BLM Cleveland](https://www.paypal.me/blmcle)
 
 ### Colombus
 * [Colombus Freedom Fund](https://www.paypal.me/columbusfreedomfund)
@@ -202,3 +217,6 @@ title: "List of Bail Funds"
 
 ## Wisconsin
 * [Free the 350 Bail Fund](https://freethe350bailfund.wordpress.com/)
+
+### Milwaukee
+* [Milwaukee Freedom Fund ](https://fundrazr.com/mkefreedomfund?ref=ab_79CRGa_ab_8dfq3zLk9z18dfq3zLk9z1)
