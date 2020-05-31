@@ -3,14 +3,13 @@ layout: default
 title: "List of Bail Funds"
 ---
 
-# List of Bail Funds Across the Country
+# List of Bail Funds for Protest Support across the Country
 
 *This list is intended to be comprehensive. If there is something missing, please contact [@abhiprofen on twitter](https://twitter.com/abhiprofen) or make a pull request on the [github repository](https://github.com/bailfunds/bailfunds.github.io).*
 
 ## National
-* [The Bail Project](https://secure.givelively.org/donate/the-bail-project)
-* [National Bailout Fund](http://nationalbailot.org/) — *This website is currently down*
 * [Nationwide Bail Fund Split](https://secure.actblue.com/donate/bail_funds_george_floyd) — *If you have no particular place to donate, this link will split your donation among several Bail Funds*
+* [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *Decentralized organization rather than a national one for cities without individual bail funds*
 
 ## Alabama
 * [Montgomery Bail Out Fund](https://www.mgmbailout.com/)
@@ -27,9 +26,6 @@ title: "List of Bail Funds"
 * [Little Rock Freedom Fund](https://cash.app/$LRFreedomFund)
 
 ## California
-
-* [Al Otro Lado Vida Libre Bond Fund](https://alotrolado.networkforgood.com/)
-
 ### Bay Area
 * [Anti-Police Terror Project](http://www.antipoliceterrorproject.org/donate)
 * [Bay Area Anti- Repression Committee Bail Fund](https://rally.org/ARCbailfund)
@@ -55,9 +51,6 @@ title: "List of Bail Funds"
 * [FNB Bail Fund](https://www.gofundme.com/f/fnbbailfundwilm)
 
 ## Florida
-* [Florida Justice Center](https://www.floridajc.org/donate/)
-* [Florida LGBTQ Freedom Fund](https://www.lgbtqfund.org/donate-1)
-
 ### Alachua County
 * [Alachua County Bond Fund](https://actionnetwork.org/fundraising/alachua-county-covid-19-bond-fund)
 
@@ -66,6 +59,7 @@ title: "List of Bail Funds"
 
 ### Miami
 * [(F)empower Community Bond Fund](https://www.paypal.me/freethemall)
+* [Florida LGBTQ Freedom Fund](https://www.lgbtqfund.org/donate-1)
 
 ## Georgia
 ### Atlanta
@@ -75,9 +69,6 @@ title: "List of Bail Funds"
 * [Hawai'i Community Bail Fund](https://hawaiicommunitybailfund.org/)
 
 ## Illinois
-### Champaign
-* [Champaign County Bailout Coalition](https://champaigncountybailoutcoalition.wordpress.com/?fbclid=IwAR0HaFyeHM87lID68LqxiGPsWDvgByZR54LpU1PC2NtFxuN-DgbzrYgrcXU)
-
 ### Chicago
 * [Chicago Community Bond Fund](https://chicagobond.org/)
 
@@ -96,9 +87,6 @@ title: "List of Bail Funds"
 ### New Orleans
 * [New Orleans Safety & Freedom Fund](https://donorbox.org/safety-freedom-fund-eoy)
 
-### Baton Rouge
-* [YWCA Baton Rouge Community Bail Fund](https://www.ywca-br.org/community-bail-fund)
-
 ## Maryland
 ### Baltimore
 * [Baltimore Legal Action Team](https://baltimoreactionlegal.networkforgood.com/projects/99878-cells-to-safety-campaign-final)
@@ -107,8 +95,6 @@ title: "List of Bail Funds"
 * [Massachusetts Bail Fund](https://www.massbailfund.org/)
 
 ## Michigan
-* [Bail Project](https://secure.givelively.org/donate/the-bail-project)
-
 ### Detroit
 * [Bail for Detroit's Protests](https://www.gofundme.com/f/bail-for-detroit-protests)
 * [Detroit Bail Fund](https://www.gofundme.com/f/detroits-bail-fund)
@@ -121,9 +107,6 @@ title: "List of Bail Funds"
 * [Mississippi Bail Fund Collective](https://secure.actblue.com/donate/ms-bail-fund)
 
 ## Missouri
-### Columbia
-* [Race Matters Friends Community Bail Fund](https://racemattersfriends.com/about/)
-
 ### Kansas City
 * [Kansas City Community Bail Fund](https://www.kccommunitybailfund.com/)
 * [Reale Justice Community Bail Fund](https://www.paypal.com/pools/c/8dFiVVyGMN)
@@ -139,27 +122,16 @@ title: "List of Bail Funds"
 
 ## New York
 ### New York City
+* [Free Them All 2020 ](https://cash.app/$bailoutnycmay) — *This is the most supported fund by multiple collectives*
 * [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
-* [Liberty Fund NYC](https://www.libertyfund.nyc/) — *This fund is apparently connected with the Bill DeBlasio Office and only selectively posts Bail. Please consider donating elsewhere*
-* [Emergency Release Fund](https://emergencyreleasefund.com/)
-* [Free Them All](https://cash.app/$bailoutnycmay)
 
 ### Buffalo
 * [SURJ Buffalo Bail Fund](https://fundrazr.com/11fcAd?ref=ab_e8vImf_ab_8dfq3zLk9z18dfq3zLk9z1)
-
-### Tompkins County
-* [OAR of Tompkins County Bail Fund](https://www.oartompkins.org/civil-liberties/bail-fund/)
-
-### Syracuse
-* [Syracuse Jail Ministry](https://www.facebook.com/syracusejailministry/)
 
 ### Rochester 
 * [BLM Rochester](https://venmo.com/blmroc)
 
 ## North Carolina
-### Alamance County
-* [Alamance County Community Bail Fund](https://downhomenc.org/bailfund/)
-
 ### Charlotte
 * [Charlotte Uprising](https://cash.app/$WereStillHere)
 
@@ -169,17 +141,11 @@ title: "List of Bail Funds"
 ### Raleigh / Chapel Hill
 * [The Anti-Racist Activist Fund](https://www.takeactionch.com/donations)
 
-## North Dakota
-### Fargo
-* [Fargo & Morehead Solidarity Fund](https://www.paypal.com/pools/c/8oLGbaaeqf)
-
 ## Oklahoma
 ### Oklahoma City
 * [BLM Tulsa](https://www.paypal.me/BLMOKC)
 
 ## Ohio
-* [Ohio Freedom Fund](https://www.paypal.me/columbusfreedomfund)
-
 ### Canton / Akron
 * [Canton/Akron Bail Fund](https://www.paypal.com/pools/c/8pz5hovrmY)
 
@@ -206,16 +172,12 @@ title: "List of Bail Funds"
 * [Philadelphia Bail Fund](https://www.phillybailfund.org/)
 
 ### Pittsburgh
-* [Bukit Bail Fund of Pittsburgh](https://www.bukitbailfund.org/)
 * [Aftercare Jail Support](https://www.gofundme.com/f/aftercare-for)
 
 ## Rhode Island
 * [FANG Community Bail Fund](https://www.gofundme.com/f/fangbailfund)
 
 ## Tennessee
-### Hamilton County
-* [Hamilton County Community Bail Fund](https://www.calebcha.org/bailfund.html)
-
 ### Memphis
 * [Memphis Community Bail Fund](https://justcity.org/what-we-do/mcbfund/)
 * [Mid-South Peace BLM Community Bail Fund](https://midsouthpeace.org/get-involved/donate-to-support-the-black-lives-matter-community-bail-fund/)
@@ -224,15 +186,8 @@ title: "List of Bail Funds"
 * [Nashville Community Bail Fund](https://nashvillebailfund.org/)
 
 ## Texas
-### Austin
-* [GoGetFunding](https://gogetfunding.com/support-austin-protestors-arrested-by-the-racist-police-justice-for-george-floyd-and-mike-ramos/)
-* [400+1 Bail Fund](https://reparation.atlas.thrinacia.com/campaign/24/400-1-bail-fund)
-
 ### Dallas
 * [Luke 4:18 Bail Fund](https://faithintx.org/bailfund/)
-
-### Houston
-* [Restoring Justice](https://www.restoringjustice.org/give)
 
 ## Utah
 ### Salt Lake City
