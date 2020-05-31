@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "List of Bail Funds"
+title: "List of Bail Funds for Protestors"
 ---
 
-# List of Bail Funds for Protest Support across the Country
+# List of Bail Funds for Protestors across the Country
 
 *This list is intended to be comprehensive. If there is something missing, please contact [@abhiprofen on twitter](https://twitter.com/abhiprofen) or make a pull request on the [github repository](https://github.com/bailfunds/bailfunds.github.io).*
 
