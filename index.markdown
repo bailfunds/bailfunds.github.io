@@ -188,5 +188,8 @@ title: "List of Bail Funds"
 ## Washington
 * [Northwest Community Bail Fund](https://www.nwcombailfund.org/)
 
+### Seattle
+* [BLM Seattle Freedom Fund](https://blacklivesseattle.org/bail-fund/)
+
 ## Wisconsin
 * [Free the 350 Bail Fund](https://freethe350bailfund.wordpress.com/)
