@@ -184,6 +184,9 @@ title: "List of Bail Funds for Protestors"
 * [FANG Community Bail Fund](https://www.gofundme.com/f/fangbailfund)
 
 ## Tennessee
+### Hamilton County
+* [](http://www.calebcha.org/bailfund.html)
+
 ### Memphis
 * [Memphis Community Bail Fund](https://justcity.org/what-we-do/mcbfund/)
 * [Mid-South Peace BLM Community Bail Fund](https://midsouthpeace.org/get-involved/donate-to-support-the-black-lives-matter-community-bail-fund/)
