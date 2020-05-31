@@ -47,6 +47,9 @@ title: "List of Bail Funds"
 ### Alachua County
 * [Alachua County Bond Fund](https://actionnetwork.org/fundraising/alachua-county-covid-19-bond-fund)
 
+### Duval County
+* [Jacksonville Community Action Committee](https://www.gofundme.com/f/duval-bail-out?utm_source=twitter&utm_medium=social&utm_campaign=p_cp+share-sheet)
+
 ### Miami
 * [(F)empower Community Bond Fund](https://www.paypal.me/freethemall)
 
