@@ -87,6 +87,10 @@ title: "List of Bail Funds for Protestors"
 ### Indianapolis
 * [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *This is a national project, but specifically helps people in Indianapolis*
 
+## Iowa
+### Des Moines
+* [Eastern Community Bond Project](https://communitybondproject.networkforgood.com/projects/101939-free-our-protesters)
+
 ## Kentucky
 ### Louisville
 * [Louisville Community Bail Fund](https://actionnetwork.org/fundraising/louisville-community-bail-fund-2)
