@@ -136,10 +136,9 @@ title: "List of Bail Funds"
 ## New York
 ### New York City
 * [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
-* [Liberty Fund NYC](https://www.libertyfund.nyc/)
+* [Liberty Fund NYC](https://www.libertyfund.nyc/) — *This fund is apparently connected with the Bill DeBlasio Office and only selectively posts Bail. Please consider donating elsewhere*
 * [Emergency Release Fund](https://emergencyreleasefund.com/)
-* [Free Them All](https://freethemall4publichealth.org/)
-* [COVID Bailout](https://www.covidbailout.org/)
+* [Free Them All](https://cash.app/$bailoutnycmay)
 
 ### Buffalo
 * [SURJ Buffalo Bail Fund](https://fundrazr.com/11fcAd?ref=ab_e8vImf_ab_8dfq3zLk9z18dfq3zLk9z1)
