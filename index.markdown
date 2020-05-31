@@ -13,7 +13,7 @@ title: "List of Bail Funds for Protestors"
 * [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *Centralized national organization with regular bail posting in a number of individual cities, which may be providing protest support depending on city and bail amounts.*
 
 ## Alabama
-### Birmingham 
+### Birmingham
 * [No One Left Behind Fund](https://venmo.com/starrobb)
 
 ### Montgomery
@@ -22,7 +22,7 @@ title: "List of Bail Funds for Protestors"
 ## Arizona
 ### Phoenix
 * [Black People's Justice Fund](https://secure.everyaction.com/lFZFGA1BpUa9kyYYgSxSKw2?fbclid=IwAR3YvwJy2ZFuGfVk0BL1rWX8UYOOx2Mbv8NVEV4MjlEXCSHDv-lx8l1H6IM)
- 
+
 ### Tucson
 * [Tucson Second Chance Community Bail Fund](https://watchtucson.com/)
 
@@ -55,7 +55,7 @@ title: "List of Bail Funds for Protestors"
 ## Connecticut
 * [Connecticut Bail Fund](http://www.ctbailfund.org/)
 
-## Delaware 
+## Delaware
 * [FNB Bail Fund](https://www.gofundme.com/f/fnbbailfundwilm)
 
 ## Florida
@@ -80,7 +80,7 @@ title: "List of Bail Funds for Protestors"
 ### Chicago
 * [Chicago Community Bond Fund](https://chicagobond.org/)
 
-### Rockford 
+### Rockford
 * [Winnebago Bond Project](https://www.wincoilbondproject.org/donate)
 
 ## Indiana
@@ -140,7 +140,7 @@ title: "List of Bail Funds for Protestors"
 ### Buffalo
 * [SURJ Buffalo Bail Fund](https://fundrazr.com/11fcAd?ref=ab_e8vImf_ab_8dfq3zLk9z18dfq3zLk9z1)
 
-### Rochester 
+### Rochester
 * [BLM Rochester](https://venmo.com/blmroc)
 
 ## North Carolina
@@ -161,7 +161,7 @@ title: "List of Bail Funds for Protestors"
 ### Canton / Akron
 * [Canton/Akron Bail Fund](https://www.paypal.com/pools/c/8pz5hovrmY)
 
-### Cleveland 
+### Cleveland
 * [BLM Cleveland](https://www.paypal.me/blmcle)
 
 ### Columbus
@@ -242,3 +242,7 @@ title: "List of Bail Funds for Protestors"
 ## Canada
 ### Toronto
 * [Toronto Protestor Bail Fund](https://www.gofundme.com/f/toronto-protestor-bail-fund)
+
+
+## Other Resources
+* [Mutual Aid Hub](http://mutualaidhub.org)
