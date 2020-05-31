@@ -50,6 +50,9 @@ title: "List of Bail Funds"
 ## Connecticut
 * [Connecticut Bail Fund](http://www.ctbailfund.org/)
 
+## Delaware 
+* [FNB Bail Fund](https://www.gofundme.com/f/fnbbailfundwilm)
+
 ## Florida
 * [Florida Justice Center](https://www.floridajc.org/donate/)
 * [Florida LGBTQ Freedom Fund](https://www.lgbtqfund.org/donate-1)
@@ -77,6 +80,9 @@ title: "List of Bail Funds"
 ### Chicago
 * [Chicago Community Bond Fund](https://chicagobond.org/)
 
+### Rockford 
+* [Winnebago Bond Project](https://www.wincoilbondproject.org/donate)
+
 ## Kentucky
 ### Louisville
 * [Louisville Community Bail Fund](https://actionnetwork.org/fundraising/louisville-community-bail-fund-2)
@@ -89,6 +95,7 @@ title: "List of Bail Funds"
 * [YWCA Baton Rouge Community Bail Fund](https://www.ywca-br.org/community-bail-fund)
 
 ## Maryland
+### Baltimore
 * [Baltimore Legal Action Team](https://baltimoreactionlegal.networkforgood.com/projects/99878-cells-to-safety-campaign-final)
 
 ## Massachusetts
