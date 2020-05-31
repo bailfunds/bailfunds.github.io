@@ -82,8 +82,12 @@ title: "List of Bail Funds"
 * [Massachusetts Bail Fund](https://www.massbailfund.org/)
 
 ## Michigan
-* [Detriot Justice Center](https://donorbox.org/support-the-detroit-justice-center-1)
 * [Bail Project](https://secure.givelively.org/donate/the-bail-project)
+
+### Detriot
+* [Bail for Detriot's Protests](https://www.gofundme.com/f/bail-for-detroit-protests?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)
+* [Detriot Bail Fund](https://www.gofundme.com/f/detroits-bail-fund?utm_medium=sms&utm_source=product&utm_campaign=p_susi-sms-welcome)
+* [Detriot Justice Center](https://donorbox.org/support-the-detroit-justice-center-1)
 
 ## Minnesota
 * [Minnesota Freedom Fund](https://minnesotafreedomfund.org/)
