@@ -72,6 +72,9 @@ title: "List of Bail Funds for Protestors"
 * [(F)empower Community Bond Fund](https://www.paypal.me/freethemall)
 * [Florida LGBTQ Freedom Fund](https://www.lgbtqfund.org/donate-1)
 
+###Tampa Bay
+* [Tampa Bay Community Support Fund](https://www.gofundme.com/f/tampa-bay-community-support-fund)
+
 ## Georgia
 ### Atlanta
 * [Atlanta Solidarity Fund](http://atlsolidarity.org/)
