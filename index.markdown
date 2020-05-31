@@ -171,7 +171,7 @@ title: "List of Bail Funds"
 * [Fargo & Morehead Solidarity Fund](https://www.paypal.com/pools/c/8oLGbaaeqf)
 
 ## Oklahoma
-### Tulsa
+### Oklahoma City
 * [BLM Tulsa](https://www.paypal.me/BLMOKC)
 
 ## Ohio
