@@ -166,6 +166,10 @@ title: "List of Bail Funds"
 ### Raleigh / Chapel Hill
 * [The Anti-Racist Activist Fund](https://www.takeactionch.com/donations)
 
+## North Dakota
+### Fargo
+* [Fargo & Morehead Solidarity Fund](https://www.paypal.com/pools/c/8oLGbaaeqf)
+
 ## Oklahoma
 ### Tulsa
 * [BLM Tulsa](https://www.paypal.me/BLMOKC)
@@ -201,6 +205,9 @@ title: "List of Bail Funds"
 ### Pittsburgh
 * [Bukit Bail Fund of Pittsburgh](https://www.bukitbailfund.org/)
 
+## Rhode Island
+* [FANG Community Bail Fund](https://www.gofundme.com/f/fangbailfund)
+
 ## Tennessee
 ### Hamilton County
 * [Hamilton County Community Bail Fund](https://www.calebcha.org/bailfund.html)
@@ -210,13 +217,6 @@ title: "List of Bail Funds"
 
 ### Nashville
 * [Nashville Community Bail Fund](https://nashvillebailfund.org/)
-
-## Virginia
-### Richmond
-* [Richmond Community Bail Fund](https://rvabailfund.org/)
-
-### Roanoke
-* [Roanoke Community Bail Fund](https://chuffed.org/project/rjs-bail-fund)
 
 ## Texas
 ### Austin
@@ -238,6 +238,17 @@ title: "List of Bail Funds"
 
 ### Seattle
 * [BLM Seattle Freedom Fund](https://blacklivesseattle.org/bail-fund/)
+
+## South Carolina
+### Charleston
+* [Charleston SC Community Fund](https://www.gofundme.com/f/charleston-sc-protestor-bail-fund)
+
+## Virginia
+### Richmond
+* [Richmond Community Bail Fund](https://rvabailfund.org/)
+
+### Roanoke
+* [Roanoke Community Bail Fund](https://chuffed.org/project/rjs-bail-fund)
 
 ## Wisconsin
 * [Free the 350 Bail Fund](https://freethe350bailfund.wordpress.com/)
