@@ -123,6 +123,10 @@ title: "List of Bail Funds for Protestors"
 * [#ICantBreath KC Solidarity Fund](https://www.paypal.com/pools/c/8dFiVVyGMN)
 * [Kansas City Community Bail Fund](https://www.kccommunitybailfund.com/)
 * [One Struggle KC Legal Fund](https://actionnetwork.org/fundraising/donate-to-the-one-struggle-kc-legal-fund)
+* [Reale Justice Community Bail Fund] (https://www.paypal.com/pools/c/8dFiVVyGMN)
+
+### Columbia
+* [Race Matters, Friends](https://racemattersfriends.com/community-bail-fund/)
 
 ## Nebraska
 ### Omaha
