@@ -158,6 +158,9 @@ title: "List of Bail Funds"
 ## Ohio
 * [Ohio Freedom Fund](https://www.paypal.me/columbusfreedomfund?fbclid=IwAR0hQlXIO1B9N0VgmyDn4kEA8Mw3jDsePbmhh3GUqe3iktfXll0EVV7H0e0)
 
+### Canton / Akron
+* [Canton/Akron Bail Fund](https://www.paypal.com/pools/c/8pz5hovrmY)
+
 ### Cleveland 
 * [BLM Cleveland](https://www.paypal.me/blmcle)
 
