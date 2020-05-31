@@ -14,6 +14,7 @@ title: "List of Bail Funds"
 ## National
 * [The Bail Project](https://secure.givelively.org/donate/the-bail-project)
 * [National Bailout Fund](http://nationalbailot.org/) — *This website is currently down*
+* [Nationwide Bail Fund Split](https://secure.actblue.com/donate/bail_funds_george_floyd) — *If you have no particular place to donate, this link will split your donation among several Bail Funds*
 
 ## Alabama
 * [Montgomery Bail Out Fund](https://www.mgmbailout.com/)
