@@ -37,6 +37,9 @@ title: "List of Bail Funds for Protestors"
 * [People's Programs Oakland](https://www.paypal.me/peoplesprograms)
 * [Silicon Valley DSA Bail Fund](https://siliconvalleydsa.org/donations/)
 
+### Orange County
+* [Orange County Bail Fund](https://www.gofundme.com/f/orange-county-bail-fund)
+
 ### Los Angeles
 * [Peoples City Council Freedom Fund](https://www.gofundme.com/f/peoples-city-council-ticket-fund)
 
@@ -185,7 +188,7 @@ title: "List of Bail Funds for Protestors"
 
 ## Tennessee
 ### Hamilton County
-* [](http://www.calebcha.org/bailfund.html)
+* [Hamilton County Community Bail Fund](http://www.calebcha.org/bailfund.html)
 
 ### Memphis
 * [Memphis Community Bail Fund](https://justcity.org/what-we-do/mcbfund/)
