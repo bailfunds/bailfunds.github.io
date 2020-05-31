@@ -18,7 +18,7 @@ title: "List of Bail Funds"
 * [Montgomery Bail Out Fund](https://www.mgmbailout.com/)
 
 ## Arizona
-* [Tuscan Second Chance Community Bail Fund](https://watchtucson.com/)
+* [Tucson Second Chance Community Bail Fund](https://watchtucson.com/)
 
 ## California
 
@@ -27,9 +27,10 @@ title: "List of Bail Funds"
 ### Los Angeles
 * [Peoples City Council Freedom Fund](https://www.gofundme.com/f/peoples-city-council-ticket-fund?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet)
 
-### San Jose
+### San Jose / Oakland
 * [Anti-Police Terror Project](http://www.antipoliceterrorproject.org/donate)
 * [Silicon Valley DSA Bail Fund](https://siliconvalleydsa.org/donations/)
+* [People's Programs Oakland](https://www.paypal.me/peoplesprograms)
 
 ## Colorado
 * [Colorado Freedom Fund](https://fundly.com/coloradofreedom)
@@ -95,14 +96,21 @@ title: "List of Bail Funds"
 ## Minnesota
 * [Minnesota Freedom Fund](https://minnesotafreedomfund.org/) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
 
+## Mississippi 
+* [Mississippi Bail Fund Collective](https://secure.actblue.com/donate/ms-bail-fund)
+
 ## Missouri
 ### Columbia
-* [Race Matters Friends Community Bail Fund](Race Matters Friends Community Bail Fund - Columbia, MO )
+* [Race Matters Friends Community Bail Fund](https://racemattersfriends.com/about/)
 
 ### Kansas City
 * [Kansas City Community Bail Fund](https://www.kccommunitybailfund.com/)
 * [Reale Justice Community Bail Fund](https://www.paypal.com/pools/c/8dFiVVyGMN)
 * [One Struggle KC Legal Fund](https://actionnetwork.org/fundraising/donate-to-the-one-struggle-kc-legal-fund)
+
+## Nebraska
+### Omaha
+* [Neighbors for Common Good Bail Fund](https://www.paypal.me/neleftcoalition) — *Put "Bail" on Memo Line*
 
 ## Nevada
 ### Las Vegas
@@ -111,9 +119,13 @@ title: "List of Bail Funds"
 ## New York
 ### New York City
 * [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
+* [Liberty Fund NYC](https://www.libertyfund.nyc/)
 * [Emergency Release Fund](https://emergencyreleasefund.com/)
 * [Free Them All](https://freethemall4publichealth.org/)
 * [COVID Bailout](https://www.covidbailout.org/)
+
+### Buffalo 
+* [SURJ Buffalo Bail Fund](https://fundrazr.com/11fcAd?ref=ab_e8vImf_ab_8dfq3zLk9z18dfq3zLk9z1)
 
 ### Tompkins County
 * [OAR of Tompkins County Bail Fund](https://www.oartompkins.org/civil-liberties/bail-fund/)
@@ -129,8 +141,10 @@ title: "List of Bail Funds"
 * [North Carolina Community Bail Fund of Durham](https://www.nccbailfund.org/)
 
 ## Ohio
-### Colombus
 * [Ohio Freedom Fund](https://www.paypal.me/columbusfreedomfund?fbclid=IwAR0hQlXIO1B9N0VgmyDn4kEA8Mw3jDsePbmhh3GUqe3iktfXll0EVV7H0e0)
+
+### Colombus
+* [Colombus Freedom Fund](https://www.paypal.me/columbusfreedomfund)
 
 ## Oregon
 ### Portland
@@ -182,6 +196,9 @@ title: "List of Bail Funds"
 
 ## Washington
 * [Northwest Community Bail Fund](https://www.nwcombailfund.org/)
+
+### Seattle
+* [BLM Seattle Freedom Fund](https://blacklivesseattle.org/bail-fund/)
 
 ## Wisconsin
 * [Free the 350 Bail Fund](https://freethe350bailfund.wordpress.com/)
