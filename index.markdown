@@ -171,6 +171,9 @@ title: "List of Bail Funds"
 ### Colombus
 * [Colombus Freedom Fund](https://www.paypal.me/columbusfreedomfund)
 
+### Cincinnati 
+* [Cincinnati Bail Fund](https://www.givelify.com/givenow/1.0/NTU5MjE=/selection) — *Choose an amount and click Cincinnati Bail Fund on next screen*
+
 ## Oregon
 ### Portland
 * [Portland Freedom Fund](https://www.portlandfreedomfund.org/donate/)
