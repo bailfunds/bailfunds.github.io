@@ -114,8 +114,6 @@ title: "List of Bail Funds for Protestors"
 
 ## Michigan
 ### Detroit
-* [Bail for Detroit's Protests](https://www.gofundme.com/f/bail-for-detroit-protests)
-* [Detroit Bail Fund](https://www.gofundme.com/f/detroits-bail-fund)
 * [Detroit Justice Center](https://donorbox.org/support-the-detroit-justice-center-1)
 
 ## Minnesota
@@ -140,7 +138,7 @@ title: "List of Bail Funds for Protestors"
 
 ## New York
 ### New York City
-* [Free Them All 2020 ](https://cash.app/$bailoutnycmay) — *Fund has been closed by an influx of donations, suggested donations to other cities*
+* [Free Them All 2020 ](https://cash.app/$bailoutnycmay) — *This was the main protest support fund. As of Sunday evening, they have closed down donations and are asking people to support elsewhere.*
 * [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
 
 ### Buffalo
