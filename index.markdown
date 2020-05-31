@@ -72,6 +72,9 @@ title: "List of Bail Funds for Protestors"
 * [(F)empower Community Bond Fund](https://www.paypal.me/freethemall)
 * [Florida LGBTQ Freedom Fund](https://www.lgbtqfund.org/donate-1)
 
+### Tallahassee
+* [Tallahassee Dream Defenders Bail Fund](https://cash.app/$FreeFloridaBailFund)
+
 ## Georgia
 ### Atlanta
 * [Atlanta Solidarity Fund](http://atlsolidarity.org/)
