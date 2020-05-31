@@ -138,6 +138,9 @@ title: "List of Bail Funds"
 ### Syracuse
 * [Syracuse Jail Ministry](https://www.facebook.com/syracusejailministry/)
 
+### Rochester 
+* [BLM Rochester](https://venmo.com/blmroc)
+
 ## North Carolina
 ### Alamance County
 * [Alamance County Community Bail Fund](https://downhomenc.org/bailfund/)
