@@ -114,7 +114,7 @@ title: "List of Bail Funds"
 * [OAR of Tompkins County Bail Fund](https://www.oartompkins.org/civil-liberties/bail-fund/)
 
 ### Syracuse
-* [Syrace Jail Ministry](https://www.facebook.com/syracusejailministry/)
+* [Syracuse Jail Ministry](https://www.facebook.com/syracusejailministry/)
 
 ## North Carolina
 ### Alamance County
