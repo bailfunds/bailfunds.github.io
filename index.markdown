@@ -86,7 +86,7 @@ title: "List of Bail Funds"
 
 ## Indiana
 ### Indianapolis
-* [Bail Project](https://secure.givelively.org/donate/the-bail-project)
+* [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *This is a national project, but specifically helps people in Indianapolis*
 
 ## Kentucky
 ### Louisville
