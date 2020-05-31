@@ -160,6 +160,9 @@ title: "List of Bail Funds"
 ### Alamance County
 * [Alamance County Community Bail Fund](https://downhomenc.org/bailfund/)
 
+### Charlotte
+* [Charlotte Uprising](https://cash.app/$WereStillHere)
+
 ### Durham
 * [North Carolina Community Bail Fund of Durham](https://www.nccbailfund.org/)
 
@@ -214,6 +217,7 @@ title: "List of Bail Funds"
 
 ### Memphis
 * [Memphis Community Bail Fund](https://justcity.org/what-we-do/mcbfund/)
+* [Mid-South Peace BLM Community Bail Fund](https://midsouthpeace.org/get-involved/donate-to-support-the-black-lives-matter-community-bail-fund/)
 
 ### Nashville
 * [Nashville Community Bail Fund](https://nashvillebailfund.org/)
