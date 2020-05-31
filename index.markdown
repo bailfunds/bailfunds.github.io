@@ -166,7 +166,7 @@ title: "List of Bail Funds"
 ### Raleigh / Chapel Hill
 * [The Anti-Racist Activist Fund](https://www.takeactionch.com/donations)
 
-## Ohklahoma
+## Oklahoma
 ### Tulsa
 * [BLM Tulsa](https://www.paypal.me/BLMOKC)
 
