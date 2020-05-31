@@ -31,6 +31,7 @@ title: "List of Bail Funds for Protestors"
 * [Little Rock Freedom Fund](https://cash.app/$LRFreedomFund)
 
 ## California
+*Due to the COVID-19 Crisis, Bail in California has been set to $0. The funds here are meant to cover non-Bail expenses for protestors*
 ### Bay Area
 * [Anti-Police Terror Project](http://www.antipoliceterrorproject.org/donate)
 * [Bay Area Anti- Repression Committee Bail Fund](https://rally.org/ARCbailfund)
