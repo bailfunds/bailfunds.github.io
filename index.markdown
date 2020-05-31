@@ -75,7 +75,7 @@ title: "List of Bail Funds"
 * [Atlanta Solidarity Fund](http://atlsolidarity.org/)
 
 ## Hawai'i
-* [Hawaii Community Bail Fund](https://hawaiicommunitybailfund.org/)
+* [Hawai'i Community Bail Fund](https://hawaiicommunitybailfund.org/)
 
 ## Illinois
 ### Champaign
@@ -108,10 +108,10 @@ title: "List of Bail Funds"
 ## Michigan
 * [Bail Project](https://secure.givelively.org/donate/the-bail-project)
 
-### Detriot
-* [Bail for Detriot's Protests](https://www.gofundme.com/f/bail-for-detroit-protests?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)
-* [Detriot Bail Fund](https://www.gofundme.com/f/detroits-bail-fund?utm_medium=sms&utm_source=product&utm_campaign=p_susi-sms-welcome)
-* [Detriot Justice Center](https://donorbox.org/support-the-detroit-justice-center-1)
+### Detroit
+* [Bail for Detroit's Protests](https://www.gofundme.com/f/bail-for-detroit-protests?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)
+* [Detroit Bail Fund](https://www.gofundme.com/f/detroits-bail-fund?utm_medium=sms&utm_source=product&utm_campaign=p_susi-sms-welcome)
+* [Detroit Justice Center](https://donorbox.org/support-the-detroit-justice-center-1)
 
 ## Minnesota
 * [Minnesota Freedom Fund](https://minnesotafreedomfund.org/) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
@@ -194,7 +194,7 @@ title: "List of Bail Funds"
 * [Portland Freedom Fund](https://www.portlandfreedomfund.org/donate/)
 * [Portland Bail Fund](https://www.gofundme.com/f/pdx-protest-bail-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)
 
-## Pennslyvania
+## Pennsylvania
 ### Dauphin County
 * [Dauphin County Bail Fund](https://dauphincountybailfund.org/)
 
