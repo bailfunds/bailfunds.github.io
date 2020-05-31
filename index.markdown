@@ -188,7 +188,7 @@ title: "List of Bail Funds for Protestors"
 * [Philadelphia Bail Fund](https://www.phillybailfund.org/)
 
 ### Pittsburgh
-* [Bukit Bail Fund](https://www.bukitbailfund.org/donate) — *Preferred fund*
+* [Bukit Bail Fund](https://www.bukitbailfund.org/donate) — *Coordinating w/ Aftercare Jail Support but serving as base bail fund now.*
 * [Aftercare Jail Support](https://www.gofundme.com/f/aftercare-for)
 
 ## Rhode Island
