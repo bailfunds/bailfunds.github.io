@@ -57,6 +57,8 @@ title: "List of Bail Funds for Protestors"
 * [FNB Bail Fund](https://www.gofundme.com/f/fnbbailfundwilm)
 
 ## Florida
+* [IWOC Statewide Bail Fund](https://www.gofundme.com/f/f12-protesters-support?fbclid=IwAR0KGDvQg6S_L6vAVOlyxrl6GZQs-JMcrsKVeu7J92gg959ZWNplP18PtTQ)
+
 ### Alachua County
 * [Alachua County Bond Fund](https://actionnetwork.org/fundraising/alachua-county-covid-19-bond-fund)
 
