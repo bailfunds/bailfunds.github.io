@@ -132,7 +132,7 @@ title: "List of Bail Funds for Protestors"
 * [One Struggle KC Legal Fund](https://actionnetwork.org/fundraising/donate-to-the-one-struggle-kc-legal-fund)
 
 ## Nebraska
-### Omaha
+### Omaha and Lincoln
 * [Neighbors for Common Good Bail Fund](https://www.paypal.me/neleftcoalition) — *Put "Bail" on Memo Line*
 
 ## Nevada
