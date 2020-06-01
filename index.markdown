@@ -9,7 +9,7 @@ title: "List of Bail Funds for Protestors"
 
 ## National
 * [National Bail Fund Network](https://www.communityjusticeexchange.org/nbfn-directory) — *Avaliable to assist with coordination*
-* [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *Centralized national organization with regular bail posting in a number of individual cities, which may be providing protest support depending on city and bail amounts.*
+* [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *Centralized national organization with regular bail posting in a number of individual cities, which may be providing protest support depending on city and bail amounts*
 
 ## Alabama
 ### Birmingham
@@ -182,8 +182,8 @@ title: "List of Bail Funds for Protestors"
 
 ## Oregon
 ### Portland
-* [Portland Freedom Fund](https://www.portlandfreedomfund.org/donate/)
 * [PDX Bail Fund](https://www.gofundme.com/f/pdx-protest-bail-fund)
+* [Portland Freedom Fund](https://www.portlandfreedomfund.org/donate/) — *This Website is currently down, pending update*
 
 ## Pennsylvania
 ### Dauphin County
@@ -203,6 +203,9 @@ title: "List of Bail Funds for Protestors"
 ## Tennessee
 ### Hamilton County
 * [Hamilton County Community Bail Fund](http://www.calebcha.org/bailfund.html)
+
+### Knoxvilel
+* [End Money Bail Knoxville Bail Fund](https://venmo.com/EndMoneyBail-Knoxville) — *Please caption "BLM"*
 
 ### Memphis
 * [Memphis Community Bail Fund](https://justcity.org/what-we-do/mcbfund/)
