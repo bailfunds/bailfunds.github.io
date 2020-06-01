@@ -117,6 +117,8 @@ title: "List of Bail Funds for Protestors"
 * [Massachusetts Bail Fund](https://www.massbailfund.org/)
 
 ## Michigan
+* [Michigan Solidarity Bail Fund](https://michigansolidaritybailfund.com/)
+
 ### Detroit
 * [Detroit Justice Center](https://donorbox.org/support-the-detroit-justice-center-1)
 
