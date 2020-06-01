@@ -154,6 +154,8 @@ title: "List of Bail Funds for Protestors"
 * [BLM Rochester](https://venmo.com/blmroc)
 
 ## North Carolina
+* [Freedom Fighter Bail Bond](https://emancipatenc.org/donate/) — *Please click the checkbox under "Freedom Fighter Bond Fund Designation"*
+
 ### Charlotte
 * [Charlotte Uprising](https://cash.app/$WereStillHere)
 
