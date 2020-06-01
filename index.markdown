@@ -94,6 +94,10 @@ title: "List of Bail Funds for Protestors"
 ### Des Moines
 * [Eastern Community Bond Project](https://communitybondproject.networkforgood.com/projects/101939-free-our-protesters)
 
+## Kansas
+### Lawrence
+* [Lawrence Bail Fund](https://www.paypal.me/lawrencebailfund)
+
 ## Kentucky
 ### Louisville
 * [Louisville Community Bail Fund](https://actionnetwork.org/fundraising/louisville-community-bail-fund-2)
