@@ -23,7 +23,7 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p><i><small>This website was last updated on {{ site.time }}</small></i></p>
+        <p><i><small>This website was last updated on {{ site.time | date: '%m/%d/%Y %r'}}</small></i></p>
       </header>
       <section>
 
