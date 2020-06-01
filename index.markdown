@@ -96,7 +96,7 @@ title: "List of Bail Funds for Protestors"
 
 ## Kansas
 ### Lawrence
-* [Lawrence Bail Fund](https://www.paypal.me/lawrencebailfund)
+* [BLM Lawrence Bail Fund](https://www.paypal.me/lawrencebailfund)
 
 ## Kentucky
 ### Louisville
@@ -111,7 +111,7 @@ title: "List of Bail Funds for Protestors"
 
 ## Maryland
 ### Baltimore
-* [Baltimore Legal Action Team](https://baltimoreactionlegal.networkforgood.com/projects/99878-cells-to-safety-campaign-final)
+* [Baltimore Legal Action Team Bail Fund](https://baltimoreactionlegal.networkforgood.com/projects/99878-cells-to-safety-campaign-final)
 
 ## Massachusetts
 * [Massachusetts Bail Fund](https://www.massbailfund.org/)
@@ -143,6 +143,9 @@ title: "List of Bail Funds for Protestors"
 ### New York City
 * [Free Them All 2020 ](https://cash.app/$bailoutnycmay) — *This was the main protest support fund. As of Sunday evening, they have closed down donations and are asking people to support elsewhere.*
 * [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
+
+### Albany
+* [Albany Bail Fund For Black Lives](https://www.paypal.com/pools/c/8pAK2AzvDg)
 
 ### Buffalo
 * [SURJ Buffalo Bail Fund](https://fundrazr.com/11fcAd?ref=ab_e8vImf_ab_8dfq3zLk9z18dfq3zLk9z1)
@@ -180,7 +183,7 @@ title: "List of Bail Funds for Protestors"
 ## Oregon
 ### Portland
 * [Portland Freedom Fund](https://www.portlandfreedomfund.org/donate/)
-* [Portland Bail Fund](https://www.gofundme.com/f/pdx-protest-bail-fund)
+* [PDX Bail Fund](https://www.gofundme.com/f/pdx-protest-bail-fund)
 
 ## Pennsylvania
 ### Dauphin County
