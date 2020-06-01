@@ -204,7 +204,7 @@ title: "List of Bail Funds for Protestors"
 ### Hamilton County
 * [Hamilton County Community Bail Fund](http://www.calebcha.org/bailfund.html)
 
-### Knoxvilel
+### Knoxville
 * [End Money Bail Knoxville Bail Fund](https://venmo.com/EndMoneyBail-Knoxville) — *Please caption "BLM"*
 
 ### Memphis
