@@ -159,7 +159,7 @@ title: "List of Bail Funds for Protestors"
 * [The Anti-Racist Activist Fund](https://www.takeactionch.com/donations)
 
 ## Oklahoma
-### Oklahoma City
+### Tulsa
 * [BLM Tulsa](https://www.paypal.me/BLMOKC)
 
 ## Ohio
