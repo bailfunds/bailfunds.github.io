@@ -9,7 +9,6 @@ title: "List of Bail Funds for Protestors"
 
 ## National
 * [National Bail Fund Network](https://www.communityjusticeexchange.org/nbfn-directory) — *Avaliable to assist with coordination*
-* [Nationwide Bail Fund Split](https://secure.actblue.com/donate/bail_funds_george_floyd) — *If you have no particular place to donate, this link will split your donation among several Bail Funds*
 * [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *Centralized national organization with regular bail posting in a number of individual cities, which may be providing protest support depending on city and bail amounts.*
 
 ## Alabama
