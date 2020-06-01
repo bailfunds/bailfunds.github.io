@@ -112,7 +112,7 @@ title: "List of Bail Funds for Protestors"
 * [Baltimore Legal Action Team](https://baltimoreactionlegal.networkforgood.com/projects/99878-cells-to-safety-campaign-final)
 
 ## Massachusetts
-* [Massachusetts Bail Fund](https://www.massbailfund.org/)
+* [Massachusetts Bail Fund](https://www.massbailfund.org/) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
 
 ## Michigan
 ### Detroit
