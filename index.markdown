@@ -13,6 +13,7 @@ title: "List of Bail Funds for Protestors"
 
 ## Alabama
 ### Birmingham
+* [BHAM Community Support Fund](https://www.gofundme.com/f/bham-community-support-fund)
 * [No One Left Behind Fund](https://venmo.com/starrobb)
 
 ### Montgomery
@@ -154,7 +155,7 @@ title: "List of Bail Funds for Protestors"
 * [BLM Rochester](https://venmo.com/blmroc)
 
 ## North Carolina
-* [Freedom Fighter Bail Bond](https://emancipatenc.org/donate/) — *Please click the checkbox under "Freedom Fighter Bond Fund Designation"*
+* [Freedom Fighter Bail Bond](https://emancipatenc.org/freedom-fighter-bond-fund/) — *Please click the checkbox under "Freedom Fighter Bond Fund Designation"*
 
 ### Charlotte
 * [Charlotte Uprising](https://cash.app/$WereStillHere)
