@@ -142,8 +142,8 @@ title: "List of Bail Funds for Protestors"
 
 ## New York
 ### New York City
-* [Free Them All 2020 ](https://cash.app/$bailoutnycmay) — *This was the main protest support fund. As of Sunday evening, they have closed down donations and are asking people to support elsewhere.*
-* [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
+* [Free Them All 2020](https://cash.app/$bailoutnycmay) — *This was the main protest support fund. As of Sunday evening, they have closed down donations and has suggested to donate elsewhere.*
+* [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations and an alternate protest support bail fund, this Bail Fund has suggested to donate elsewhere*
 
 ### Albany
 * [Albany Bail Fund For Black Lives](https://www.paypal.com/pools/c/8pAK2AzvDg)
@@ -197,8 +197,7 @@ title: "List of Bail Funds for Protestors"
 * [Philadelphia Bail Fund](https://www.phillybailfund.org/)
 
 ### Pittsburgh
-* [Bukit Bail Fund](https://www.bukitbailfund.org/donate) — *Coordinating w/ Aftercare Jail Support but serving as base bail fund now.*
-* [Aftercare Jail Support](https://www.gofundme.com/f/aftercare-for)
+* [Bukit Bail Fund](https://www.bukitbailfund.org/donate)
 
 ## Rhode Island
 * [FANG Community Bail Fund](https://www.gofundme.com/f/fangbailfund)
@@ -269,3 +268,4 @@ title: "List of Bail Funds for Protestors"
 
 ## Other Resources
 * [Mutual Aid Hub](http://mutualaidhub.org)
+* [National Participatory Defense Network](https://www.participatorydefense.org/hubs) — *Network of community-based organizations that support individuals and families facing charges and navigating the criminal legal system*
