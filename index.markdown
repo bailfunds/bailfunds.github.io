@@ -262,6 +262,9 @@ title: "List of Bail Funds for Protestors"
 ### Seattle
 * [BLM Seattle Freedom Fund](https://blacklivesseattle.org/bail-fund/)
 
+## West Virginia
+* [BLM West Virginia Bail Fund](https://secure.actblue.com/donate/blacklivesmatterwv?fbclid=IwAR0LhSbJi1j8_wT3nrzsH3J55Q-7JBg_AAoQ-7pOgnr9bj4UwcfWHAIUcTg)
+
 ## Washington, District of Columbia
 * *Money bail is not used in Washington, DC*
 
