@@ -220,11 +220,17 @@ title: "List of Bail Funds for Protestors"
 * [Nashville Community Bail Fund](https://nashvillebailfund.org/)
 
 ## Texas
+### Austin
+* (400 + 1 Bail Fund)[https://reparation.atlas.thrinacia.com/campaign/24/400-1-bail-fund]
+
 ### Dallas
 * [Luke 4:18 Bail Fund](https://faithintx.org/bailfund/)
 
 ### El Paso
 * [Fianza Fund](https://venmo.com/fianza-fund)
+
+### Fort Worth
+* [Tarrant County Community Bail Fund](https://actionnetwork.org/fundraising/tarrant-county-community-bail-fund)
 
 ### Harris, Dallas, Bexar Counties
 * [Texas Organizing Project Bailout Fund](http://organizetexas.org/topcommunitybailoutfund/)
@@ -238,6 +244,7 @@ title: "List of Bail Funds for Protestors"
 
 ### Seattle
 * [BLM Seattle Freedom Fund](https://blacklivesseattle.org/bail-fund/)
+* [Northwest Community Bail Fund](https://www.nwcombailfund.org/)
 
 ## South Carolina
 ### Columbia 
