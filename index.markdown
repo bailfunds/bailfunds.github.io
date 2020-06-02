@@ -124,7 +124,7 @@ title: "List of Bail Funds for Protestors"
 * [New Orleans Safety & Freedom Fund](https://donorbox.org/safety-freedom-fund-eoy)
 
 ### Baton Rouge
-* [YWCA Greater Baton Rouge Community Bail Fund] (https://www.ywca-br.org/community-bail-fund)
+* [YWCA Greater Baton Rouge Community Bail Fund](https://www.ywca-br.org/community-bail-fund)
 
 ## Maryland
 ### Baltimore
