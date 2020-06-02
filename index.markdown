@@ -92,7 +92,7 @@ title: "List of Bail Funds for Protestors"
 ## Illinois
 
 ### Champaign County
-* [Champaign County Bailout Coalition] (https://champaigncountybailoutcoalition.wordpress.com/)
+* [Champaign County Bailout Coalition](https://champaigncountybailoutcoalition.wordpress.com/)
 
 ### Chicago
 * [Chicago Community Bond Fund](https://chicagobond.org/)
