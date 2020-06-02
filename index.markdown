@@ -63,7 +63,7 @@ title: "List of Bail Funds for Protestors"
 ## Florida
 * [IWOC Statewide Bail Fund](https://www.gofundme.com/f/f12-protesters-support?fbclid=IwAR0KGDvQg6S_L6vAVOlyxrl6GZQs-JMcrsKVeu7J92gg959ZWNplP18PtTQ)
 
-### Alachua County
+### Alachua County / Tallahassee
 * [Alachua County Bond Fund](https://actionnetwork.org/fundraising/alachua-county-covid-19-bond-fund)
 
 ### Duval County
@@ -72,6 +72,9 @@ title: "List of Bail Funds for Protestors"
 ### Miami
 * [(F)empower Community Bond Fund](https://www.paypal.me/freethemall)
 * [Florida LGBTQ Freedom Fund](https://www.lgbtqfund.org/donate-1)
+
+### Orlando
+* [Orlando Dream Defenders Bail Fund](https://www.paypal.me/otownsquadd)
 
 ### Tampa Bay
 * [Tampa Bay Community Support Fund](https://www.gofundme.com/f/tampa-bay-community-support-fund)
