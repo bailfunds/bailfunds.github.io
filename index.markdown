@@ -9,11 +9,12 @@ title: "List of Bail Funds for Protestors"
 
 ## National
 * [National Bail Fund Network](https://www.communityjusticeexchange.org/nbfn-directory) — *Avaliable to assist with coordination*
-* [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *Centralized national organization with regular bail posting in a number of individual cities, which may be providing protest support depending on city and bail amounts.*
+* [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *Centralized national organization with regular bail posting in a number of individual cities, which may be providing protest support depending on city and bail amounts*
 * [Black & Pink National Bail Fund](https://secure.actblue.com/donate/blackandpinkbail) - *Black and Pink is a nationally networked grassroots organization working to abolish the prison industrial complex while meeting the immediate needs of LGBTQ and HIV+ prisoners.*
 
 ## Alabama
 ### Birmingham
+* [BHAM Community Support Fund](https://www.gofundme.com/f/bham-community-support-fund)
 * [No One Left Behind Fund](https://venmo.com/starrobb)
 
 ### Montgomery
@@ -93,11 +94,11 @@ title: "List of Bail Funds for Protestors"
 
 ## Iowa
 ### Des Moines
-* [Eastern Community Bond Project](https://communitybondproject.networkforgood.com/projects/101939-free-our-protesters)
+* [Eastern Iowa Community Bond Project](https://communitybondproject.networkforgood.com/projects/101939-free-our-protesters)
 
 ## Kansas
 ### Lawrence
-* [Lawrence Bail Fund](https://www.paypal.me/lawrencebailfund)
+* [BLM Lawrence Bail Fund](https://www.paypal.me/lawrencebailfund)
 
 ## Kentucky
 ### Louisville
@@ -112,7 +113,7 @@ title: "List of Bail Funds for Protestors"
 
 ## Maryland
 ### Baltimore
-* [Baltimore Legal Action Team](https://baltimoreactionlegal.networkforgood.com/projects/99878-cells-to-safety-campaign-final)
+* [Baltimore Legal Action Team Bail Fund](https://baltimoreactionlegal.networkforgood.com/projects/99878-cells-to-safety-campaign-final)
 
 ## Massachusetts
 * [Massachusetts Bail Fund](https://www.massbailfund.org/)
@@ -133,7 +134,7 @@ title: "List of Bail Funds for Protestors"
 * [One Struggle KC Legal Fund](https://actionnetwork.org/fundraising/donate-to-the-one-struggle-kc-legal-fund)
 
 ## Nebraska
-### Omaha
+### Omaha and Lincoln
 * [Neighbors for Common Good Bail Fund](https://www.paypal.me/neleftcoalition) — *Put "Bail" on Memo Line*
 
 ## Nevada
@@ -142,8 +143,11 @@ title: "List of Bail Funds for Protestors"
 
 ## New York
 ### New York City
-* [Free Them All 2020 ](https://cash.app/$bailoutnycmay) — *This was the main protest support fund. As of Sunday evening, they have closed down donations and are asking people to support elsewhere.*
-* [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations, this Bail Fund has suggested to donate elsewhere*
+* [Free Them All 2020](https://cash.app/$bailoutnycmay) — *This was the main protest support fund. As of Sunday evening, they have closed down donations and has suggested to donate elsewhere.*
+* [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations and an alternate protest support bail fund, this Bail Fund has suggested to donate elsewhere*
+
+### Albany
+* [Albany Bail Fund For Black Lives](https://www.paypal.com/pools/c/8pAK2AzvDg)
 
 ### Buffalo
 * [SURJ Buffalo Bail Fund](https://fundrazr.com/11fcAd?ref=ab_e8vImf_ab_8dfq3zLk9z18dfq3zLk9z1)
@@ -152,6 +156,8 @@ title: "List of Bail Funds for Protestors"
 * [BLM Rochester](https://venmo.com/blmroc)
 
 ## North Carolina
+* [Freedom Fighter Bail Bond](https://emancipatenc.org/freedom-fighter-bond-fund/) — *Please click the checkbox under "Freedom Fighter Bond Fund Designation"*
+
 ### Charlotte
 * [Charlotte Uprising](https://cash.app/$WereStillHere)
 
@@ -180,8 +186,8 @@ title: "List of Bail Funds for Protestors"
 
 ## Oregon
 ### Portland
-* [Portland Freedom Fund](https://www.portlandfreedomfund.org/donate/)
-* [Portland Bail Fund](https://www.gofundme.com/f/pdx-protest-bail-fund)
+* [PDX Bail Fund](https://www.gofundme.com/f/pdx-protest-bail-fund)
+* [Portland Freedom Fund](https://www.portlandfreedomfund.org/donate/) — *This Website is currently down, pending update*
 
 ## Pennsylvania
 ### Dauphin County
@@ -192,8 +198,7 @@ title: "List of Bail Funds for Protestors"
 * [Philadelphia Bail Fund](https://www.phillybailfund.org/)
 
 ### Pittsburgh
-* [Bukit Bail Fund](https://www.bukitbailfund.org/donate) — *Coordinating w/ Aftercare Jail Support but serving as base bail fund now.*
-* [Aftercare Jail Support](https://www.gofundme.com/f/aftercare-for)
+* [Bukit Bail Fund](https://www.bukitbailfund.org/donate)
 
 ## Rhode Island
 * [FANG Community Bail Fund](https://www.gofundme.com/f/fangbailfund)
@@ -201,6 +206,9 @@ title: "List of Bail Funds for Protestors"
 ## Tennessee
 ### Hamilton County
 * [Hamilton County Community Bail Fund](http://www.calebcha.org/bailfund.html)
+
+### Knoxville
+* [End Money Bail Knoxville Bail Fund](https://venmo.com/EndMoneyBail-Knoxville) — *Please caption "BLM"*
 
 ### Memphis
 * [Memphis Community Bail Fund](https://justcity.org/what-we-do/mcbfund/)
@@ -230,8 +238,11 @@ title: "List of Bail Funds for Protestors"
 * [BLM Seattle Freedom Fund](https://blacklivesseattle.org/bail-fund/)
 
 ## South Carolina
+### Columbia 
+* [Soda City Bail Fund](https://cash.app/$sodacitybail)
+
 ### Charleston
-* [Charleston SC Community Fund](https://www.gofundme.com/f/charleston-sc-protestor-bail-fund)
+* [BLM Charleston Bail Fund](https://www.paypal.me/chsrebellion2020)
 
 ## Virginia
 ### Richmond
@@ -239,6 +250,9 @@ title: "List of Bail Funds for Protestors"
 
 ### Roanoke
 * [Roanoke Community Bail Fund](https://chuffed.org/project/rjs-bail-fund)
+
+### Tidewater
+* [Freedom Fighter Fund](https://tidewatersolidaritycenter.wordpress.com/donate/)
 
 ## Wisconsin
 ### Madison
@@ -254,3 +268,4 @@ title: "List of Bail Funds for Protestors"
 
 ## Other Resources
 * [Mutual Aid Hub](http://mutualaidhub.org)
+* [National Participatory Defense Network](https://www.participatorydefense.org/hubs) — *Network of community-based organizations that support individuals and families facing charges and navigating the criminal legal system*
