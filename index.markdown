@@ -63,7 +63,7 @@ title: "List of Bail Funds for Protestors"
 ## Florida
 * [IWOC Statewide Bail Fund](https://www.gofundme.com/f/f12-protesters-support?fbclid=IwAR0KGDvQg6S_L6vAVOlyxrl6GZQs-JMcrsKVeu7J92gg959ZWNplP18PtTQ)
 
-### Alachua County / Tallahassee
+### Alachua County
 * [Alachua County Bond Fund](https://actionnetwork.org/fundraising/alachua-county-covid-19-bond-fund)
 
 ### Duval County
@@ -72,9 +72,6 @@ title: "List of Bail Funds for Protestors"
 ### Miami
 * [(F)empower Community Bond Fund](https://www.paypal.me/freethemall)
 * [Florida LGBTQ Freedom Fund](https://www.lgbtqfund.org/donate-1)
-
-### Orlando
-* [Orlando Dream Defenders Bail Fund](https://www.paypal.me/otownsquadd)
 
 ### Tampa Bay
 * [Tampa Bay Community Support Fund](https://www.gofundme.com/f/tampa-bay-community-support-fund)
@@ -92,7 +89,7 @@ title: "List of Bail Funds for Protestors"
 ## Illinois
 
 ### Champaign County
-* [Champaign County Bailout Coalition](https://champaigncountybailoutcoalition.wordpress.com/)
+* [Champaign County Bailout Coalition] (https://champaigncountybailoutcoalition.wordpress.com/)
 
 ### Chicago
 * [Chicago Community Bond Fund](https://chicagobond.org/)
@@ -124,7 +121,7 @@ title: "List of Bail Funds for Protestors"
 * [New Orleans Safety & Freedom Fund](https://donorbox.org/safety-freedom-fund-eoy)
 
 ### Baton Rouge
-* [YWCA Greater Baton Rouge Community Bail Fund](https://www.ywca-br.org/community-bail-fund)
+* [YWCA Greater Baton Rouge Community Bail Fund] (https://www.ywca-br.org/community-bail-fund)
 
 ## Maryland
 ### Baltimore
@@ -160,6 +157,7 @@ title: "List of Bail Funds for Protestors"
 ### New York City
 * [Free Them All 2020](https://cash.app/$bailoutnycmay) — *This was the main protest support fund. As of Sunday evening, they have closed down donations and has suggested to donate elsewhere.*
 * [Brooklyn Bail Fund](https://brooklynbailfund.org/donation-form) — *Due to an influx of donations and an alternate protest support bail fund, this Bail Fund has suggested to donate elsewhere*
+* [Emergency Release Fund](https://emergencyreleasefund.com/)
 
 ### Albany
 * [Albany Bail Fund For Black Lives](https://www.paypal.com/pools/c/8pAK2AzvDg)
@@ -169,6 +167,9 @@ title: "List of Bail Funds for Protestors"
 
 ### Rochester
 * [BLM Rochester](https://venmo.com/blmroc)
+
+### Tompkins County 
+* [OAR of Tompkins County](https://www.oartompkins.org/civil-liberties/bail-fund/)
 
 ## North Carolina
 * [Freedom Fighter Bail Bond](https://emancipatenc.org/freedom-fighter-bond-fund/) — *Please click the checkbox under "Freedom Fighter Bond Fund Designation"*
