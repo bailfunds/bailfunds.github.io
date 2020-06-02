@@ -208,6 +208,13 @@ title: "List of Bail Funds for Protestors"
 ## Rhode Island
 * [FANG Community Bail Fund](https://www.gofundme.com/f/fangbailfund)
 
+## South Carolina
+### Columbia
+* [Soda City Bail Fund](https://cash.app/$sodacitybail)
+
+### Charleston
+* [BLM Charleston Bail Fund](https://www.paypal.me/chsrebellion2020)
+
 ## Tennessee
 ### Hamilton County
 * [Hamilton County Community Bail Fund](http://www.calebcha.org/bailfund.html)
@@ -236,13 +243,6 @@ title: "List of Bail Funds for Protestors"
 ### Salt Lake City
 * [Salt Lake City Community Bail](https://www.gofundme.com/f/c2mvvn-support-protesters-arrested-by-slcpd)
 
-## South Carolina
-### Columbia
-* [Soda City Bail Fund](https://cash.app/$sodacitybail)
-
-### Charleston
-* [BLM Charleston Bail Fund](https://www.paypal.me/chsrebellion2020)
-
 ## Virginia
 ### Richmond
 * [Richmond Community Bail Fund](https://rvabailfund.org/)
@@ -258,6 +258,9 @@ title: "List of Bail Funds for Protestors"
 
 ### Seattle
 * [BLM Seattle Freedom Fund](https://blacklivesseattle.org/bail-fund/)
+
+## Washington, District of Columbia
+* *Money bail is not used in Washington, DC*
 
 ## Wisconsin
 ### Madison
