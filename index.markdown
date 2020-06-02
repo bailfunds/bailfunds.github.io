@@ -30,7 +30,7 @@ title: "List of Bail Funds for Protestors"
 ### Bay Area
 * [Anti-Police Terror Project](http://www.antipoliceterrorproject.org/donate)
 * [Bay Area Anti- Repression Committee Bail Fund](https://rally.org/ARCbailfund)
-* [People's Programs Oakland](https://www.paypal.me/peoplesprograms)
+* [Oakland's People's Breakfast](https://linktr.ee/PBO)
 * [Silicon Valley DSA Bail Fund](https://siliconvalleydsa.org/donations/)
 
 ### Orange County
@@ -242,6 +242,9 @@ title: "List of Bail Funds for Protestors"
 
 ### El Paso
 * [Fianza Fund](https://venmo.com/fianza-fund)
+
+### Fort Worth
+* [Tarrant County Community Bail Fund](https://actionnetwork.org/fundraising/tarrant-county-community-bail-fund)
 
 ### Harris, Dallas, Bexar Counties
 * [Texas Organizing Project Bailout Fund](http://organizetexas.org/topcommunitybailoutfund/)
