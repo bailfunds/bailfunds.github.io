@@ -46,7 +46,7 @@ title: "List of Bail Funds for Protestors"
 * [NorCal Resist Activist BAIL & ICE Bond Fund](https://actionnetwork.org/fundraising/ncrbailfund/)
 
 ### San Luis Obispo
-* [SLO Bail Fund](https://cash.app$SLOBailFund) 
+* [SLO Bail Fund](https://cash.app$SLOBailFund)
 
 ## Colorado
 * [Colorado Freedom Fund](https://fundly.com/coloradofreedom)
@@ -79,6 +79,9 @@ title: "List of Bail Funds for Protestors"
 ## Georgia
 ### Atlanta
 * [Atlanta Solidarity Fund](http://atlsolidarity.org/)
+
+### Athens
+* [Athens Freedom Fund](https://www.aadmovement.org/athens-freedom-fund/)
 
 ## Hawai'i
 * [Hawai'i Community Bail Fund](https://hawaiicommunitybailfund.org/)
@@ -233,14 +236,8 @@ title: "List of Bail Funds for Protestors"
 ### Salt Lake City
 * [Salt Lake City Community Bail](https://www.gofundme.com/f/c2mvvn-support-protesters-arrested-by-slcpd)
 
-## Washington
-* [Northwest Community Bail Fund](https://www.nwcombailfund.org/)
-
-### Seattle
-* [BLM Seattle Freedom Fund](https://blacklivesseattle.org/bail-fund/)
-
 ## South Carolina
-### Columbia 
+### Columbia
 * [Soda City Bail Fund](https://cash.app/$sodacitybail)
 
 ### Charleston
@@ -255,6 +252,12 @@ title: "List of Bail Funds for Protestors"
 
 ### Tidewater
 * [Freedom Fighter Fund](https://tidewatersolidaritycenter.wordpress.com/donate/)
+
+## Washington
+* [Northwest Community Bail Fund](https://www.nwcombailfund.org/)
+
+### Seattle
+* [BLM Seattle Freedom Fund](https://blacklivesseattle.org/bail-fund/)
 
 ## Wisconsin
 ### Madison
