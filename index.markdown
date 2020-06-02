@@ -106,7 +106,7 @@ title: "List of Bail Funds for Protestors"
 
 ## Iowa
 ### Des Moines
-* [Eastern Iowa Community Bond Project](https://communitybondproject.networkforgood.com/projects/101939-free-our-protesters)
+* [Prarielands Freedom Fund](https://communitybondproject.networkforgood.com/projects/101939-free-our-protesters)
 
 ## Kansas
 ### Lawrence
