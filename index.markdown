@@ -8,7 +8,7 @@ title: "List of Bail Funds for Protestors"
 *This list is intended to be comprehensive. We worked with [National Bail Fund Network](https://www.communityjusticeexchange.org/national-bail-fund-network) to ensure the validity of these. If there is something missing, please email [info@communityjusticeexchange.org](mailto:info@communityjusticeexchange.org) or make a pull request on the [github repository](https://github.com/bailfunds/bailfunds.github.io).*
 
 ## National
-* [National Bail Fund Network](https://www.communityjusticeexchange.org/nbfn-directory) — *Avaliable to assist with coordination*
+* [National Bail Fund Network](https://www.communityjusticeexchange.org/nbfn-directory) — *Available to assist with coordination*
 * [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *Centralized national organization with regular bail posting in a number of individual cities, which may be providing protest support depending on city and bail amounts*
 
 ## Alabama
