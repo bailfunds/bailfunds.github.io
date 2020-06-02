@@ -279,6 +279,8 @@ title: "List of Bail Funds for Protestors"
 ### Toronto
 * [Toronto Protestor Bail Fund](https://www.gofundme.com/f/toronto-protestor-bail-fund)
 
+### Montréal
+* [Standing Committee for the Support of Demonstrators](https://en.manif.co/)
 
 ## Other Resources
 * [Mutual Aid Hub](http://mutualaidhub.org)
