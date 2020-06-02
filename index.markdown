@@ -242,7 +242,6 @@ title: "List of Bail Funds for Protestors"
 
 ### Charleston
 * [BLM Charleston Bail Fund](https://www.paypal.me/chsrebellion2020)
-* [Charleston SC Community Fund](https://www.gofundme.com/f/charleston-sc-protestor-bail-fund)
 
 ## Virginia
 ### Richmond
