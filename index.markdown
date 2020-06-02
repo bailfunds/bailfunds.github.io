@@ -238,7 +238,11 @@ title: "List of Bail Funds for Protestors"
 * [BLM Seattle Freedom Fund](https://blacklivesseattle.org/bail-fund/)
 
 ## South Carolina
+### Columbia 
+* [Soda City Bail Fund](https://cash.app/$sodacitybail)
+
 ### Charleston
+* [BLM Charleston Bail Fund](https://www.paypal.me/chsrebellion2020)
 * [Charleston SC Community Fund](https://www.gofundme.com/f/charleston-sc-protestor-bail-fund)
 
 ## Virginia
@@ -247,6 +251,9 @@ title: "List of Bail Funds for Protestors"
 
 ### Roanoke
 * [Roanoke Community Bail Fund](https://chuffed.org/project/rjs-bail-fund)
+
+### Tidewater
+* [Freedom Fighter Fund](https://tidewatersolidaritycenter.wordpress.com/donate/)
 
 ## Wisconsin
 ### Madison
