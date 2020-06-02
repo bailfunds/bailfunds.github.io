@@ -199,7 +199,7 @@ title: "List of Bail Funds for Protestors"
 * [Dauphin County Bail Fund](https://dauphincountybailfund.org/)
 
 ### Lancaster
-* [Lancaster Bail Fund](https://www.gofundme.com/f/lancaster-bail-fund)
+* [Lancaster Bail Fund for #BlackLivesMatter](https://www.gofundme.com/f/lancaster-bail-fund)
 
 ### Philadelphia
 * [Philadelphia Community Bail Fund](https://www.phillybailout.com/)
