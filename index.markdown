@@ -199,11 +199,7 @@ title: "List of Bail Funds for Protestors"
 * [Dauphin County Bail Fund](https://dauphincountybailfund.org/)
 
 ### Lancaster
-<<<<<<< HEAD
-* [Lancaster Bail Fund for #BlackLivesMatter](https://www.gofundme.com/f/lancaster-bail-fund)
-=======
 * [Lancaster Bail Fund](https://www.gofundme.com/f/lancaster-bail-fund)
->>>>>>> f78885d77d8bff8b7cd0bdd50d0c6127a26417b3
 
 ### Philadelphia
 * [Philadelphia Community Bail Fund](https://www.phillybailout.com/)
@@ -265,6 +261,9 @@ title: "List of Bail Funds for Protestors"
 
 ### Seattle
 * [BLM Seattle Freedom Fund](https://blacklivesseattle.org/bail-fund/)
+
+## West Virginia
+* [BLM West Virginia Bail Fund](https://secure.actblue.com/donate/blacklivesmatterwv?fbclid=IwAR0LhSbJi1j8_wT3nrzsH3J55Q-7JBg_AAoQ-7pOgnr9bj4UwcfWHAIUcTg)
 
 ## Washington, District of Columbia
 * *Money bail is not used in Washington, DC*
