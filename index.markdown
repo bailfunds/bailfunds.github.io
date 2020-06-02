@@ -254,6 +254,12 @@ title: "List of Bail Funds for Protestors"
 * [Salt Lake City Community Bail](https://www.gofundme.com/f/c2mvvn-support-protesters-arrested-by-slcpd)
 
 ## Virginia
+### Charlottesville
+* [Blue Ridge Community Bail Fund](https://gf.me/u/x6czhg)
+
+### Fredericksburg
+* [VA Black Business Directory Defense Fund](https://gf.me/u/x6bbpg)
+
 ### Richmond
 * [Richmond Community Bail Fund](https://rvabailfund.org/)
 
@@ -274,6 +280,7 @@ title: "List of Bail Funds for Protestors"
 
 ## Washington, District of Columbia
 * *Money bail is not used in Washington, DC*
+* [BLM Legal Defense Fund](https://gf.me/u/x54yjf)
 
 ## Wisconsin
 ### Madison
