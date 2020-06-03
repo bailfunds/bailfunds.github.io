@@ -290,6 +290,7 @@ title: "List of Bail Funds for Protestors"
 * [Milwaukee Freedom Fund](https://fundrazr.com/mkefreedomfund)
 
 ## Canada
+* Please note: ["Unlike the American system of an upfront cash bail requirement—familiar to anyone who’s ever read an Elmore Leonard or Janet Evanovich novel, or watched Law & Order—Canadian bail instead relies on sureties. No money is demanded immediately."](https://www.macleans.ca/politics/why-canadas-bail-system-creates-more-crimes-than-it-prevents/#:~:text=Unlike%20the%20American%20system%20of,No%20money%20is%20demanded%20immediately.) More broadly, the types of Canadian release [vary](https://en.wikipedia.org/wiki/Bail_in_Canada#Recognizance_with_deposit_and_without_sureties). Sometimes a cash deposit is required, other times a surety (a person pledging to supervise the accused). In any case, the Canadian resources on this list have committed to providing and assisting with legal solutions and defenses.
 ### Ontario
 * [Black Legal Action Centre](https://www.blacklegalactioncentre.ca/)
 
