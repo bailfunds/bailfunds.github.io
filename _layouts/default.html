@@ -26,15 +26,14 @@
 <body>
   <div class="wrapper">
     <header>
-      <title>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-      </title>
+      <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
       <p>{{ site.description | default: site.github.project_tagline }}</p>
 
       <p><i><small>This website was last updated on {{ site.time | date: '%m/%d/%Y %r'}} EST</small></i></p>
     </header>
     <section>
+      <title>{{ page.title }}</title>
 
       {{ content }}
 
