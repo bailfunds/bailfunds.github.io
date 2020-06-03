@@ -51,6 +51,9 @@ title: "List of Bail Funds for Protestors"
 ## Colorado
 * [Colorado Freedom Fund](https://fundly.com/coloradofreedom)
 
+### Colorado Springs
+* [Colorado Springs Protest Support Fund](http://chinookcenter.org/Colorado-springs-protest-support-fund/)
+
 ### Denver
 * [BLM Denver Fund](https://www.gofundme.com/f/funds-for-protesters-against-police-brutality)
 
