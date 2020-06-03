@@ -46,7 +46,7 @@ title: "List of Bail Funds for Protestors"
 * [NorCal Resist Activist BAIL & ICE Bond Fund](https://actionnetwork.org/fundraising/ncrbailfund/)
 
 ### San Luis Obispo
-* [SLO Bail Fund](https://cash.app$SLOBailFund)
+* [SLO Bail Fund](https://www.paypal.me/SLOBailFund)
 
 ## Colorado
 * [Colorado Freedom Fund](https://fundly.com/coloradofreedom)
