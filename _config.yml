@@ -30,6 +30,7 @@ timezone: US/Eastern
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 github:
   is_project_page: false
