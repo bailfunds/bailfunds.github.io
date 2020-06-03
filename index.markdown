@@ -290,6 +290,9 @@ title: "List of Bail Funds for Protestors"
 * [Milwaukee Freedom Fund](https://fundrazr.com/mkefreedomfund)
 
 ## Canada
+### Ontario
+* [Black Legal Action Centre](https://www.blacklegalactioncentre.ca/)
+
 ### Toronto
 * [Toronto Protestor Bail Fund](https://www.gofundme.com/f/toronto-protestor-bail-fund)
 
