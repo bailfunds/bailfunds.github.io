@@ -1,0 +1,14 @@
+---
+  name: Michigan
+  latitude: 44.3148
+  longtitude: 85.6024
+  bailfunds:
+    - name: Michigan Solidarity Bail Fund
+      link: https://michigansolidaritybailfund.com/
+  subregions:
+    - name: Detroit
+      latitude: 42.3314
+      longitude: 83.0458
+      bailfunds:
+        - name: Detroit Justice Center
+          link: https://donorbox.org/support-the-detroit-justice-center-1

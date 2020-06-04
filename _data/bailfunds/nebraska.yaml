@@ -1,0 +1,12 @@
+---
+  name: Nebraska
+  latitude: 41.4925
+  longtitude: 99.9018
+  subregions:
+    - name: Omaha and Lincoln
+      latitude: 41.2565
+      longitude: 95.9345
+      bailfunds:
+        - name: Neighbors for Common Good Bail Fund
+          link: https://www.paypal.me/neleftcoalition
+          note: Put "Bail" on Memo Line

@@ -1,0 +1,7 @@
+---
+  name: Massachusetts
+  latitude: 42.4072
+  longtitude: 71.3824
+  bailfunds:
+    - name: Massachusetts Bail Fund
+      link: https://www.massbailfund.org/

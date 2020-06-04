@@ -1,0 +1,11 @@
+---
+  name: Oklahoma
+  latitude: 35.0078
+  longtitude: 97.0929
+  subregions:
+    - name: Tulsa
+      latitude: 36.1540
+      longitude: 95.9928
+      bailfunds:
+        - name: BLM Tulsa
+          link: https://www.paypal.me/BLMOKC

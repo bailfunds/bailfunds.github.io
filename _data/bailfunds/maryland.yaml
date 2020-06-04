@@ -1,0 +1,11 @@
+---
+  name: Maryland
+  latitude: 39.0458
+  longtitude: 76.6413
+  subregions:
+    - name: Baltimore
+      latitude: 39.2904
+      longitude: 76.6122
+      bailfunds:
+        - name: Baltimore Legal Action Team Bail Fund
+          link: https://baltimoreactionlegal.networkforgood.com/projects/99878-cells-to-safety-campaign-final

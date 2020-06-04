@@ -1,0 +1,14 @@
+---
+  name: Oregon
+  latitude: 43.8041
+  longtitude: 120.5542
+  subregions:
+    - name: Portland
+      latitude: 45.5051
+      longitude: 122.6750
+      bailfunds:
+        - name: PDX Bail Fund
+          link: https://www.gofundme.com/f/pdx-protest-bail-fund
+        - name: Portland Freedom Fund
+          link: https://www.portlandfreedomfund.org/donate/
+          note: Website is currently down, pending update

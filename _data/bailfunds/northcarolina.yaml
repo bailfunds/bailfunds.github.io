@@ -1,0 +1,27 @@
+---
+  name: North Carolina
+  latitude: 35.7596
+  longtitude: 79.0193
+  bailfunds:
+    - name: Freedom Fighter Bail Bond
+      link: https://emancipatenc.org/freedom-fighter-bond-fund/
+      note: Please click the checkbox under "Freedom Fighter Bond Fund Designation"
+  subregions:
+    - name: Charlotte
+      latitude: 35.2271
+      longitude: 80.8431
+      bailfunds:
+        - name: Charlotte Uprising
+          link: https://cash.app/$WereStillHere
+    - name: Durham
+      latitude: 35.9940
+      longitude: 78.8986
+      bailfunds:
+        - name: North Carolina Community Bail Fund of Durham
+          link: https://www.nccbailfund.org/
+    - name: Raleigh / Chapel Hill
+      latitude: 35.7796
+      longitude: 78.6382
+      bailfunds:
+        - name: The Anti-Racist Activist Fund
+          link: https://www.takeactionch.com/donations
