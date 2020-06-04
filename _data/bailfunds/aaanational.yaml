@@ -1,0 +1,11 @@
+---
+  name: "National"
+  latitude: null
+  longtitude: null
+  bailfunds:
+    - name: "National Bail Fund Network"
+      link: "https://www.communityjusticeexchange.org/nbfn-directory"
+      note: "Available to assist with coordination"
+    - name: "The Bail Project"
+      link: "https://secure.givelively.org/donate/the-bail-project"
+      note: "Centralized national organization with regular bail posting in a number of individual cities, which may be providing protest support depending on city and bail amounts"
