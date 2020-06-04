@@ -173,7 +173,7 @@ title: "List of Bail Funds for Protestors"
 * [Albany Bail Fund For Black Lives](https://www.paypal.com/pools/c/8pAK2AzvDg)
 
 ### Buffalo
-* [SURJ Buffalo Bail Fund](https://fundrazr.com/11fcAd?ref=ab_e8vImf_ab_8dfq3zLk9z18dfq3zLk9z1)
+* [SURJ Buffalo Bail Fund](https://fundrazr.com/campaigns/d1fhz6)
 
 ### Rochester
 * [BLM Rochester](https://venmo.com/blmroc)
