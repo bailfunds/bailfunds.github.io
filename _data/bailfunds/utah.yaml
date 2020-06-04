@@ -1,0 +1,11 @@
+---
+  name: Utah
+  latitude: 39.3210
+  longtitude: 111.0937
+  subregions:
+    - name: Salt Lake City
+      latitude: 40.7608
+      longitude: 111.8910
+      bailfunds:
+        - name: Salt Lake City Community Bail
+          link: https://www.gofundme.com/f/c2mvvn-support-protesters-arrested-by-slcpd

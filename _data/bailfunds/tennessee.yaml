@@ -1,0 +1,32 @@
+---
+  name: Tennessee
+  latitude: 35.5175
+  longtitude: 86.5804
+  subregions:
+    - name: Hamilton County
+      latitude: 35.1619
+      longitude: 85.1479
+      bailfunds:
+        - name: Hamilton County Community Bail Fund
+          link: http://www.calebcha.org/bailfund.html
+    - name: Knoxville
+      latitude: 35.9606
+      longitude: 83.9207
+      bailfunds:
+        - name: End Money Bail Knoxville Bail Fund
+          link: https://venmo.com/EndMoneyBail-Knoxville
+          note: Please caption "BLM"
+    - name: Memphis
+      latitude: 35.1495
+      longitude: 90.0490
+      bailfunds:
+        - name: Memphis Community Bail Fund
+          link: https://justcity.org/what-we-do/mcbfund/
+        - name: Mid-South Peace BLM Community Bail Fund
+          link: https://midsouthpeace.org/get-involved/donate-to-support-the-black-lives-matter-community-bail-fund/
+    - name: Nashville
+      latitude: 36.1627
+      longitude: 86.7816
+      bailfunds:
+        - name: Nashville Community Bail Fund
+          link: https://nashvillebailfund.org/

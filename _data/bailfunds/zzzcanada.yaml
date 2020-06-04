@@ -1,0 +1,17 @@
+---
+  name: Canada
+  latitude: null
+  longtitude: null
+  subregions:
+    - name: Toronto
+      latitude: 43.6532
+      longitude: 79.3832
+      bailfunds:
+        - name: Toronto Protestor Bail Fund
+          link: https://www.gofundme.com/f/toronto-protestor-bail-fund
+    - name: Montréal
+      latitude: 45.5017
+      longitude: 73.5673
+      bailfunds:
+        - name: Standing Committee for the Support of Demonstrators
+          link: https://en.manif.co/
