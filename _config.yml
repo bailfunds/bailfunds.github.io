@@ -35,6 +35,8 @@ plugins:
 github:
   is_project_page: false
 
+google_analytics: UA-168258236-1
+
 markdown: kramdown
 
 # Exclude from processing.
