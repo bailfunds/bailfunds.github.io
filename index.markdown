@@ -28,6 +28,9 @@ title: "List of Bail Funds for Protestors"
 ### Tucson
 * [Tucson Second Chance Community Bail Fund](https://watchtucson.com/)
 
+## Arkansas
+* [Arkansas Freedom Fund](https://www.arfreedomfund.com/)
+
 ## California
 ### Bay Area
 * [Anti-Police Terror Project](http://www.antipoliceterrorproject.org/donate)
