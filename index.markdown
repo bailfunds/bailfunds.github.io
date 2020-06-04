@@ -13,7 +13,6 @@ title: "List of Bail Funds for Protestors"
 
 ## Alabama
 ### Birmingham
-* [BHAM Community Support Fund](https://www.gofundme.com/f/bham-community-support-fund)
 * [No One Left Behind Fund](https://venmo.com/starrobb)
 
 ### Huntsville
