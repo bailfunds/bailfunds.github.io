@@ -1,0 +1,17 @@
+---
+  name: Arizona
+  latitude: 34.0489
+  longtitude: 111.0937
+  subregions:
+    - name: Phoenix
+      latitude: 33.4484
+      longitude: 112.0740
+      bailfunds:
+        - name: Black People's Justice Fund
+          link: https://secure.everyaction.com/lFZFGA1BpUa9kyYYgSxSKw2?fbclid=IwAR3YvwJy2ZFuGfVk0BL1rWX8UYOOx2Mbv8NVEV4MjlEXCSHDv-lx8l1H6IM
+    - name: Tucson
+      latitude: 32.2226
+      longitude: 110.9747
+      bailfunds:
+        - name: Tucson Second Chance Community Bail Fund 
+          link: https://watchtucson.com/

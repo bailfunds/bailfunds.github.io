@@ -1,0 +1,40 @@
+---
+  name: Florida
+  latitude: 27.6648
+  longtitude: 81.5158
+  bailfunds:
+    - name: IWOC Statewide Bail Fund
+      link: https://www.gofundme.com/f/f12-protesters-support?fbclid=IwAR0KGDvQg6S_L6vAVOlyxrl6GZQs-JMcrsKVeu7J92gg959ZWNplP18PtTQ
+  subregions:
+    - name: Alachua County / Tallahassee
+      latitude: 30.4383
+      longitude: 84.2807
+      bailfunds:
+        - name: Alachua County Bond Fund
+          link: https://actionnetwork.org/fundraising/alachua-county-covid-19-bond-fund
+    - name: Duval County
+      latitude: 30.3501
+      longitude: 81.6035
+      bailfunds:
+        - name: Jacksonville Community Action Committee
+          link: https://www.gofundme.com/f/duval-bail-out
+    - name: Miami
+      latitude: 25.7617
+      longitude: 80.1918
+      bailfunds:
+        - name: (F)empower Community Bond Fund
+          link: https://www.paypal.me/freethemall
+        - name: Florida LGBTQ Freedom Fund
+          link: https://www.lgbtqfund.org/donate-1
+    - name: Orlando
+      longitude: 28.5383
+      latitude: 81.3792
+      bailfunds:
+        - name: Orlando Dream Defenders Bail Fund
+          link: https://www.paypal.me/otownsquadd
+    - name: Tampa Bay
+      longitude: 27.7634
+      latitude: 82.5437
+      bailfunds:
+        - name: Tampa Bay Community Support Fund
+          link: https://www.gofundme.com/f/tampa-bay-community-support-fund

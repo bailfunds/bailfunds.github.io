@@ -1,0 +1,24 @@
+---
+  name: Illinois
+  latitude: 40.6331
+  longtitude: 89.3985
+  subregions:
+    - name: Champaign County
+      latitude: 40.2139
+      longitude: 88.2461
+      bailfunds:
+        - name: Champaign County Bailout Coalition
+          link: https://champaigncountybailoutcoalition.wordpress.com/
+    - name: Chicago
+      latitude: 41.8781
+      longitude: 87.6298
+      bailfunds:
+        - name: Chicago Community Bond Fund
+          link: https://chicagobond.org/
+    - name: Rockford
+      latitude: 42.2711
+      longitude: 89.0940
+      bailfunds:
+        - name: Winnebago Bond Project
+          link: https://www.wincoilbondproject.org/donate
+      
