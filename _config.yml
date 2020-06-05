@@ -10,6 +10,7 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-leaflet
 
 github:
   is_project_page: false
