@@ -243,7 +243,7 @@ title: "List of Bail Funds for Protestors"
 * [BLM Charleston Bail Fund](https://www.paypal.me/chsrebellion2020)
 
 ### Greenville
-* [BLM Bail Fund](https://cash.app$UpstateBLM)
+* [BLM Bail Fund](https://cash.app/$UpstateBLM)
 
 ## Tennessee
 ### Hamilton County
