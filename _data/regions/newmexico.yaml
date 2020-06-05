@@ -1,0 +1,11 @@
+---
+  name: New Mexico
+  latitude: 34.5199
+  longtitude: 105.8701
+  subregions:
+    - name: Albuquerque
+      latitude: 35.0844
+      longitude: 106.6504
+      bailfunds:
+        - name: Albuquerque Center for Peace & Justice Bail Fund
+          link: https://abqpeaceandjustice.org/index.php/donate

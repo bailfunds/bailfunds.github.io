@@ -1,0 +1,17 @@
+---
+  name: Louisiana
+  latitude: 30.9843
+  longtitude: 91.9623
+  subregions:
+    - name: New Orleans
+      latitude: 29.9511
+      longitude: 90.0715
+      bailfunds:
+        - name: New Orleans Safety & Freedom Fund
+          link: https://donorbox.org/safety-freedom-fund-eoy
+    - name: Baton Rouge
+      latitude: 30.4515
+      longitude: 91.1871
+      bailfunds:
+        - name: YWCA Greater Baton Rouge Community Bail Fund
+          link: https://www.ywca-br.org/community-bail-fund

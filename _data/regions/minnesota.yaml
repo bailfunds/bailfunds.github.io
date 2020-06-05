@@ -1,0 +1,8 @@
+---
+  name: Minnesota
+  latitude: 46.7296
+  longtitude: 94.6859
+  bailfunds:
+    - name: Minnesota Freedom Fund
+      link: https://minnesotafreedomfund.org/
+      note: Due to an influx of donations, this Bail Fund has suggested to donate elsewhere

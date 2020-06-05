@@ -1,0 +1,15 @@
+---
+  name: Missouri
+  latitude: 37.9643
+  longtitude: 91.8318
+  subregions:
+    - name: Kansas City
+      latitude: 39.0997
+      longitude: 94.5786
+      bailfunds:
+        - name: "#ICantBreath KC Solidarity Fund"
+          link: https://www.paypal.com/pools/c/8dFiVVyGMN
+        - name: Kansas City Community Bail Fund
+          link: https://www.kccommunitybailfund.com/
+        - name: One Struggle KC Legal Fund
+          link: https://actionnetwork.org/fundraising/donate-to-the-one-struggle-kc-legal-fund

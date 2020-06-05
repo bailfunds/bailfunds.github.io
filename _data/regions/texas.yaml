@@ -1,0 +1,35 @@
+---
+  name: Texas
+  latitude: 31.9686
+  longtitude: 99.9018
+  subregions:
+    - name: Dallas
+      latitude: 32.7767
+      longitude: 96.7970
+      bailfunds:
+        - name: Luke 4:18 Bail Fund
+          link: https://faithintx.org/bailfund/
+    - name: El Paso
+      latitude: 31.7619
+      longitude: 106.4850
+      bailfunds:
+        - name: Fianza Fund
+          link: https://venmo.com/fianza-fund
+    - name: Fort Worth
+      latitude: 32.7555
+      longitude: 97.3308
+      bailfunds:
+        - name: Tarrant County Community Bail Fund
+          link: https://actionnetwork.org/fundraising/tarrant-county-community-bail-fund
+    - name: Dallas, Houston, and San Antonio
+      latitude: 30.8801
+      longitude: 96.8161
+      bailfunds:
+        - name: Texas Organizing Project Bailout Fund
+          link: http://organizetexas.org/topcommunitybailoutfund/
+    - name: Houston
+      latitude: 29.7604
+      longitude: 95.3698
+      bailfunds:
+        - name: Houston Bail Fund
+          link: https://www.houstonbailfund.com/

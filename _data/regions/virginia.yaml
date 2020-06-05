@@ -1,0 +1,23 @@
+---
+  name: Virginia
+  latitude: 37.4316
+  longtitude: 78.6569
+  subregions:
+    - name: Richmond
+      latitude: 37.5407
+      longitude: 77.4360
+      bailfunds:
+        - name: Richmond Community Bail Fund
+          link: https://rvabailfund.org/
+    - name: Roanoke
+      latitude: 37.2710
+      longitude: 79.9414
+      bailfunds:
+        - name: Roanoke Community Bail Fund
+          link: https://venmo.com/fianza-fund
+    - name: Tidewater/Hampton Roads
+      latitude: 36.8875
+      longitude: 76.3125
+      bailfunds:
+        - name: 757 Solidarity Bail Fund
+          link: https://tidewatersolidaritycenter.wordpress.com/donate/

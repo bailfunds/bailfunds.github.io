@@ -1,0 +1,11 @@
+---
+  name: Iowa
+  latitude: 41.8780
+  longtitude: 93.0977
+  subregions:
+    - name: Des Moines
+      latitude: 41.5868
+      longitude: 93.6250
+      bailfunds:
+        - name: Prarielands Freedom Fund
+          link: https://communitybondproject.networkforgood.com/projects/101939-free-our-protesters

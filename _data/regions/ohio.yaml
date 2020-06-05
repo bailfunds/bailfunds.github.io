@@ -1,0 +1,36 @@
+---
+  name: Ohio
+  latitude: 40.4173
+  longtitude: 82.9071
+  subregions:
+    - name: Canton / Akron
+      latitude: 40.7989
+      longitude: 81.3784
+      bailfunds:
+        - name: Canton/Akron Bail Fund
+          link: https://www.paypal.com/pools/c/8pz5hovrmY
+    - name: Cleveland
+      latitude: 41.4993
+      longitude: 81.6944
+      bailfunds:
+        - name: BLM Cleveland
+          link: https://www.paypal.me/blmcle
+    - name: Columbus
+      latitude: 39.9612
+      longitude: 82.9988
+      bailfunds:
+        - name: Columbus Freedom Fund
+          link: https://www.paypal.me/columbusfreedomfund
+    - name: Cincinnati
+      latitude: 39.1031
+      longitude: 84.5120
+      bailfunds:
+        - name: Beloved Community Church Bail Fund
+          link: https://www.givelify.com/givenow/1.0/NTU5MjE=/selection
+          note: Choose an amount and click Cincinnati Bail Fund on next screen
+    - name: Youngstown
+      latitude: 41.0998
+      longitude: 80.6495
+      bailfunds:
+        - name: Youngstown Freedom Fund
+          link: https://www.paypal.me/youngstownfreedomfun

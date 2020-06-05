@@ -1,0 +1,11 @@
+---
+  name: Kansas
+  latitude: 39.0119
+  longtitude: 98.4842
+  subregions:
+    - name: Lawrence
+      latitude: 38.9717
+      longitude: 95.2353
+      bailfunds:
+        - name: BLM Lawrence Bail Fund
+          link: https://www.paypal.me/lawrencebailfund

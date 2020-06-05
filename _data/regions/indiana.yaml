@@ -1,0 +1,12 @@
+---
+  name: Indiana
+  latitude: 40.2672
+  longtitude: 86.1349
+  subregions:
+    - name: Indianapolis
+      latitude: 39.7684
+      longitude: 86.1581
+      bailfunds:
+        - name: The Bail Project
+          link: https://secure.givelively.org/donate/the-bail-project
+          note: This is a national project, but specifically helps people in Indianapolis

@@ -1,0 +1,10 @@
+<ul>
+    {%- for bailfund in include.listings -%}
+    <li>
+        <a href="{{ bailfund.link }}">{{ bailfund.name }}</a>
+        {%- if bailfund.note -%}
+        — <em>{{ bailfund.note }}</em>
+        {%- endif -%}
+    </li>
+    {%- endfor -%}
+</ul>

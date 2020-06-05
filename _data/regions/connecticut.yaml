@@ -1,0 +1,7 @@
+---
+  name: Connecticut
+  latitude: 41.6032
+  longtitude: 73.0877
+  bailfunds:
+    - name: Connecticut Bail Fund
+      link: http://www.ctbailfund.org/

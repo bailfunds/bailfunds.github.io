@@ -1,7 +1,8 @@
 ---
-layout: default
-title: "List of Bail Funds for Protestors"
+layout: bailfunds
+title: "List of Bail Funds for Protestors across the Country"
 ---
+
 
 # List of Bail Funds for Protestors across the Country
 
@@ -305,3 +306,6 @@ Please note: ["Unlike the American system of an upfront cash bail requirement—
 ## Other Resources
 * [Mutual Aid Hub](http://mutualaidhub.org)
 * [National Participatory Defense Network](https://www.participatorydefense.org/hubs) — *Network of community-based organizations that support individuals and families facing charges and navigating the criminal legal system*
+
+*This list is intended to be comprehensive. We worked with [National Bail Fund Network](https://www.communityjusticeexchange.org/national-bail-fund-network) to ensure the validity of these. If there is something missing, please email [info@communityjusticeexchange.org](mailto:info@communityjusticeexchange.org) or make a pull request on the [github repository](https://github.com/bailfunds/bailfunds.github.io).*
+

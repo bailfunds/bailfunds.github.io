@@ -1,0 +1,17 @@
+---
+  name: Georgia
+  latitude: 32.1656
+  longtitude: 82.9001
+  subregions:
+    - name: Atlanta
+      latitude: 33.7490
+      longitude: 84.3880
+      bailfunds:
+        - name: Atlanta Solidarity Fund
+          link: http://atlsolidarity.org/
+    - name: Athens
+      latitude: 33.9519
+      longitude: 83.3576
+      bailfunds:
+        - name: Athens Freedom Fund
+          link: https://www.aadmovement.org/athens-freedom-fund/

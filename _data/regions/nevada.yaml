@@ -1,0 +1,11 @@
+---
+  name: Nevada
+  latitude: 38.8026
+  longtitude: 116.4194
+  subregions:
+    - name: Las Vegas
+      latitude: 36.1699
+      longitude: 115.1398
+      bailfunds:
+        - name: Vegas Freedom Fund
+          link: https://secure.actblue.com/donate/vegasfreedomfund

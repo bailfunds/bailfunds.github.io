@@ -1,0 +1,33 @@
+---
+  name: New York
+  latitude: 43.2994
+  longtitude: 74.2179
+  subregions:
+    - name: New York City
+      latitude: 40.7128
+      longitude: 74.0060
+      bailfunds:
+        - name: Free Them All 2020
+          link: https://cash.app/$bailoutnycmay
+          note: This is the main protest support fund. As of Sunday, 5/30, they have closed down donations and have suggested to donate elsewhere for now
+        - name: Brooklyn Bail Fund
+          link: https://brooklynbailfund.org/donation-form
+          note: BCBF is not posting protester bail, but is supporting other funds. Due to an influx of donations and the NYC protest support bail fund at Free Them All 2020, this bail fund has suggested to donate elsewhere
+    - name: Albany
+      latitude: 42.6526
+      longitude: 73.7562
+      bailfunds:
+        - name: Albany Bail Fund For Black Lives
+          link: https://www.paypal.com/pools/c/8pAK2AzvDg
+    - name: Buffalo
+      latitude: 42.8864
+      longitude: 78.8784
+      bailfunds:
+        - name: SURJ Buffalo Bail Fund
+          link: https://fundrazr.com/11fcAd?ref=ab_e8vImf_ab_8dfq3zLk9z18dfq3zLk9z1
+    - name: Rochester
+      latitude: 43.1566
+      longitude: 77.6088
+      bailfunds:
+        - name: BLM Rochester
+          link: https://venmo.com/blmroc

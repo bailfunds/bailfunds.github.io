@@ -1,0 +1,17 @@
+---
+  name: Kentucky
+  latitude: 37.8393
+  longtitude: 84.2700
+  subregions:
+    - name: Louisville
+      latitude: 38.2527
+      longitude: 85.7585
+      bailfunds:
+        - name: Louisville Community Bail Fund
+          link: https://actionnetwork.org/fundraising/louisville-community-bail-fund-2
+    - name: Lexington
+      latitude: 38.0406
+      longitude: 84.5037
+      bailfunds:
+        - name: Lexington Bail Fund
+          link: https://actionnetwork.org/fundraising/lexington-bail-fund?fbclid=IwAR3L2Ciw97_cBM5M1pAAy16O9PVYiJSIl-qSjohymGOm4qxVioJHrzAOyYM
