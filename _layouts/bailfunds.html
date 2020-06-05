@@ -17,6 +17,10 @@
                 {%- assign region = region_hash[1] -%}
                 {%- include bailfunds/anchor_header.html name = region.name type = "h2" -%}
 
+                {%- if region.note -%}
+                <p><em>{{ region.note}}</em></p>
+                {%- else -%}
+
                 {%- if region.bailfunds -%}
                 {%- include bailfunds/listing.html listings = region.bailfunds -%}
                 {%- endif -%}
@@ -31,6 +35,7 @@
                     {%- endfor -%}
                 </div>
                 {%- endif -%}
+                {%- endif -%ç}
             </div>
             {%- endfor -%}
 
