@@ -15,7 +15,7 @@
             {% for region_hash in regions %}
             <div>
                 {% assign region = region_hash[1] %}
-                <h2>{{ region.name }}</h2>
+                {% include bailfunds/anchor_header.html name = region.name type = "h2" %}
 
                 {% if region.bailfunds %}
                 {% include bailfunds/listing.html listings = region.bailfunds %}
@@ -23,7 +23,7 @@
 
                 {% if region.subregions %}
                 {% for subregion in region.subregions %}
-                <h3>{{ subregion.name }}</h3>
+                {% include bailfunds/anchor_header.html name = subregion.name type = "h3" %}
                 {% include bailfunds/listing.html listings = subregion.bailfunds %}
                 {% endfor %}
                 {% endif %}

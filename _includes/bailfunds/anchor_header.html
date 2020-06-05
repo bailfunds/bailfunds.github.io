@@ -1,0 +1,10 @@
+{% assign name = include.name %}
+{% assign stripped_name = name | url_encode %}
+
+<{{ include.type }} id="{{ stripped_name }}">
+<div>
+    {{ name }}
+
+    <a href="#{{ stripped_name }}" class="anchor">#</a>
+</div>
+</{{ include.type }}>
