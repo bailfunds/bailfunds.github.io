@@ -4,15 +4,13 @@
   longtitude: 74.2179
   subregions:
     - name: New York City
+      note: PLEASE NOTE that Brooklyn Community Bail Fund is NOT posting protester bail.  BCBF is supporting other funds w/ donations they have received and have asked that protest bail donations be made to Free Them All 2020 in NYC or other protest funds across the country
       latitude: 40.7128
       longitude: 74.0060
       bailfunds:
         - name: Free Them All 2020
           link: https://cash.app/$bailoutnycmay
           note: This is the main protest support fund. As of Sunday, 5/30, they have closed down donations and have suggested to donate elsewhere for now
-        - name: Brooklyn Bail Fund
-          link: https://brooklynbailfund.org/donation-form
-          note: BCBF is not posting protester bail, but is supporting other funds. Due to an influx of donations and the NYC protest support bail fund at Free Them All 2020, this bail fund has suggested to donate elsewhere
     - name: Albany
       latitude: 42.6526
       longitude: 73.7562
