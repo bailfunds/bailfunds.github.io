@@ -1,7 +1,7 @@
 ---
   name: Canada
   latitude: null
-  longtitude: null
+  longitude: null
   subregions:
     - name: Toronto
       latitude: 43.6532

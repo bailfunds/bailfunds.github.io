@@ -1,7 +1,7 @@
 ---
   name: Washington
   latitude: 47.7511
-  longtitude: 120.7401
+  longitude: 120.7401
   bailfunds:
     - name: Northwest Community Bail Fund
       link: https://www.nwcombailfund.org/

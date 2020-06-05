@@ -1,7 +1,7 @@
 ---
   name: Illinois
   latitude: 40.6331
-  longtitude: 89.3985
+  longitude: 89.3985
   subregions:
     - name: Champaign County
       latitude: 40.2139

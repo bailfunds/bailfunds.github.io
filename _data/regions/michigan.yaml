@@ -1,7 +1,7 @@
 ---
   name: Michigan
   latitude: 44.3148
-  longtitude: 85.6024
+  longitude: 85.6024
   bailfunds:
     - name: Michigan Solidarity Bail Fund
       link: https://michigansolidaritybailfund.com/

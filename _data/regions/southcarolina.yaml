@@ -1,7 +1,7 @@
 ---
   name: South Carolina
   latitude: 33.8361
-  longtitude: 81.1637
+  longitude: 81.1637
   subregions:
     - name: Columbia
       latitude: 34.0007

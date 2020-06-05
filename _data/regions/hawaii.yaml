@@ -1,7 +1,7 @@
 ---
   name: Hawaiʻi
   latitude: 19.8968
-  longtitude: 155.5828
+  longitude: 155.5828
   bailfunds:
     - name: Hawaiʻi Community Bail Fund
       link: https://hawaiicommunitybailfund.org/

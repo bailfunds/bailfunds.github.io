@@ -1,7 +1,7 @@
 ---
   name: Arkansas
   latitude: 35.2010
-  longtitude: 91.8318
+  longitude: 91.8318
   bailfunds:
     - name: Arkansas Freedom Fund
       link: https://www.arfreedomfund.com/

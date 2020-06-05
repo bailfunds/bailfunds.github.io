@@ -1,7 +1,7 @@
 ---
   name: Oregon
   latitude: 43.8041
-  longtitude: 120.5542
+  longitude: 120.5542
   subregions:
     - name: Portland
       latitude: 45.5051

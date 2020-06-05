@@ -1,7 +1,7 @@
 ---
   name: Tennessee
   latitude: 35.5175
-  longtitude: 86.5804
+  longitude: 86.5804
   subregions:
     - name: Hamilton County
       latitude: 35.1619

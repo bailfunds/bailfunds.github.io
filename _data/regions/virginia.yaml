@@ -1,7 +1,7 @@
 ---
   name: Virginia
   latitude: 37.4316
-  longtitude: 78.6569
+  longitude: 78.6569
   subregions:
     - name: Richmond
       latitude: 37.5407

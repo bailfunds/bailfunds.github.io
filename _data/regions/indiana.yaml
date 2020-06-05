@@ -1,7 +1,7 @@
 ---
   name: Indiana
   latitude: 40.2672
-  longtitude: 86.1349
+  longitude: 86.1349
   subregions:
     - name: Indianapolis
       latitude: 39.7684

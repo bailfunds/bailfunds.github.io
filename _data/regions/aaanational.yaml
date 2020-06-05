@@ -1,7 +1,7 @@
 ---
   name: National
   latitude: null
-  longtitude: null
+  longitude: null
   bailfunds:
     - name: National Bail Fund Network
       link: https://www.communityjusticeexchange.org/nbfn-directory

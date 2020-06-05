@@ -1,7 +1,7 @@
 ---
   name: Iowa
   latitude: 41.8780
-  longtitude: 93.0977
+  longitude: 93.0977
   subregions:
     - name: Des Moines
       latitude: 41.5868

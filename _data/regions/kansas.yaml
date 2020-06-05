@@ -1,7 +1,7 @@
 ---
   name: Kansas
   latitude: 39.0119
-  longtitude: 98.4842
+  longitude: 98.4842
   subregions:
     - name: Lawrence
       latitude: 38.9717

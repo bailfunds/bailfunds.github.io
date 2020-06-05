@@ -1,7 +1,7 @@
 ---
   name: Colorado
   latitude: 39.5501
-  longtitude: 105.7821
+  longitude: 105.7821
   bailfunds:
     - name: Colorado Freedom Fund
       link: https://fundly.com/coloradofreedom

@@ -1,7 +1,7 @@
 ---
   name: Rhode Island
   latitude: 41.5801
-  longtitude: 71.4774
+  longitude: 71.4774
   bailfunds:
     - name: FANG Community Bail Fund
       link: https://www.gofundme.com/f/fangbailfund

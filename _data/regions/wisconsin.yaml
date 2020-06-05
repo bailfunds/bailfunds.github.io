@@ -1,7 +1,7 @@
 ---
   name: Wisconsin
   latitude: 43.7844
-  longtitude: 88.7879
+  longitude: 88.7879
   subregions:
     - name: Madison
       latitude: 43.0731

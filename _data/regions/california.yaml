@@ -1,7 +1,7 @@
 ---
   name: California
   latitude: 36.7783
-  longtitude: 119.4179
+  longitude: 119.4179
   subregions:
     - name: Bay Area
       latitude: 37.8272

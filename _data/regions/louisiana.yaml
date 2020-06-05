@@ -1,7 +1,7 @@
 ---
   name: Louisiana
   latitude: 30.9843
-  longtitude: 91.9623
+  longitude: 91.9623
   subregions:
     - name: New Orleans
       latitude: 29.9511

@@ -1,7 +1,7 @@
 ---
   name: Ohio
   latitude: 40.4173
-  longtitude: 82.9071
+  longitude: 82.9071
   subregions:
     - name: Canton / Akron
       latitude: 40.7989

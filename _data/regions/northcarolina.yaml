@@ -1,7 +1,7 @@
 ---
   name: North Carolina
   latitude: 35.7596
-  longtitude: 79.0193
+  longitude: 79.0193
   bailfunds:
     - name: Freedom Fighter Bail Bond
       link: https://emancipatenc.org/freedom-fighter-bond-fund/

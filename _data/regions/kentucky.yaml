@@ -1,7 +1,7 @@
 ---
   name: Kentucky
   latitude: 37.8393
-  longtitude: 84.2700
+  longitude: 84.2700
   subregions:
     - name: Louisville
       latitude: 38.2527

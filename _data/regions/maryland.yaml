@@ -1,7 +1,7 @@
 ---
   name: Maryland
   latitude: 39.0458
-  longtitude: 76.6413
+  longitude: 76.6413
   subregions:
     - name: Baltimore
       latitude: 39.2904

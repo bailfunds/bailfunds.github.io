@@ -1,7 +1,7 @@
 ---
   name: New York
   latitude: 43.2994
-  longtitude: 74.2179
+  longitude: 74.2179
   subregions:
     - name: New York City
       latitude: 40.7128

@@ -1,7 +1,7 @@
 ---
   name: Alabama
   latitude: 32.3182
-  longtitude: 86.9023
+  longitude: 86.9023
   subregions:
     - name: Birmingham
       latitude: 33.5186

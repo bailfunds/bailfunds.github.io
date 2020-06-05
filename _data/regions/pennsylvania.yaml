@@ -1,7 +1,7 @@
 ---
   name: Pennsylvania
   latitude: 41.2033
-  longtitude: 77.1945
+  longitude: 77.1945
   subregions:
     - name: Dauphin County
       latitude: 40.2734

@@ -1,7 +1,7 @@
 ---
   name: Georgia
   latitude: 32.1656
-  longtitude: 82.9001
+  longitude: 82.9001
   subregions:
     - name: Atlanta
       latitude: 33.7490

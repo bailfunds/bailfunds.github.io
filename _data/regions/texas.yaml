@@ -1,7 +1,7 @@
 ---
   name: Texas
   latitude: 31.9686
-  longtitude: 99.9018
+  longitude: 99.9018
   subregions:
     - name: Dallas
       latitude: 32.7767

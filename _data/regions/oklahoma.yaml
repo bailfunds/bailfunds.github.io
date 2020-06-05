@@ -1,7 +1,7 @@
 ---
   name: Oklahoma
   latitude: 35.0078
-  longtitude: 97.0929
+  longitude: 97.0929
   subregions:
     - name: Tulsa
       latitude: 36.1540

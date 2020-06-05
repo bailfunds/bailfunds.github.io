@@ -1,7 +1,7 @@
 ---
   name: Arizona
   latitude: 34.0489
-  longtitude: 111.0937
+  longitude: 111.0937
   subregions:
     - name: Phoenix
       latitude: 33.4484

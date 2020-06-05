@@ -1,7 +1,7 @@
 ---
   name: Nevada
   latitude: 38.8026
-  longtitude: 116.4194
+  longitude: 116.4194
   subregions:
     - name: Las Vegas
       latitude: 36.1699

@@ -1,7 +1,7 @@
 ---
   name: Missouri
   latitude: 37.9643
-  longtitude: 91.8318
+  longitude: 91.8318
   subregions:
     - name: Kansas City
       latitude: 39.0997

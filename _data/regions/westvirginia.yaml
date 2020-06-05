@@ -1,7 +1,7 @@
 ---
   name: West Virginia
   latitude: 38.5976
-  longtitude: 80.4549
+  longitude: 80.4549
   bailfunds:
     - name: BLM West Virginia Bail Fund
       link: https://secure.actblue.com/donate/blacklivesmatterwv?fbclid=IwAR0LhSbJi1j8_wT3nrzsH3J55Q-7JBg_AAoQ-7pOgnr9bj4UwcfWHAIUcTg
