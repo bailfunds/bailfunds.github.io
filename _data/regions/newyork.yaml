@@ -9,10 +9,10 @@
       bailfunds:
         - name: Free Them All 2020
           link: https://cash.app/$bailoutnycmay
-          note: This was the main protest support fund. As of Sunday evening, they have closed down donations and has suggested to donate elsewhere
+          note: This is the main protest support fund. As of Sunday, 5/30, they have closed down donations and have suggested to donate elsewhere for now
         - name: Brooklyn Bail Fund
           link: https://brooklynbailfund.org/donation-form
-          note: Due to an influx of donations and an alternate protest support bail fund, this Bail Fund has suggested to donate elsewhere
+          note: BCBF is not posting protester bail, but is supporting other funds. Due to an influx of donations and the NYC protest support bail fund at Free Them All 2020, this bail fund has suggested to donate elsewhere
     - name: Albany
       latitude: 42.6526
       longitude: 73.7562
