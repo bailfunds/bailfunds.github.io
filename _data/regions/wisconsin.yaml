@@ -1,0 +1,17 @@
+---
+  name: Wisconsin
+  latitude: 43.7844
+  longtitude: 88.7879
+  subregions:
+    - name: Madison
+      latitude: 43.0731
+      longitude: 89.4012
+      bailfunds:
+        - name: Free the 350 Bail Fund
+          link: https://freethe350bailfund.wordpress.com/
+    - name: Milwaukee
+      latitude: 43.0389
+      longitude: 87.9065
+      bailfunds:
+        - name: Milwaukee Freedom Fund
+          link: https://fundrazr.com/mkefreedomfund
