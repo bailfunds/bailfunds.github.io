@@ -11,6 +11,7 @@ title: "List of Bail Funds for Protestors"
 * [National Bail Fund Network](https://www.communityjusticeexchange.org/nbfn-directory) — *Available to assist with coordination*
 * [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *Centralized national organization with regular bail posting in a number of individual cities, which may be providing protest support depending on city and bail amounts*
 * [LGBTQ Fund](https://www.lgbtqfund.org) - *The Freedom Fund posts bond to secure the release and safety of LGBTQ people in jail and immigration detention*
+* [Restoring Justice](https://www.restoringjustice.org/bail) - *Partnering up with The Bail Project and Pure Justice*
 
 ## Alabama
 ### Birmingham
