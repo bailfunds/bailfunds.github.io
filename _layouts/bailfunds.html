@@ -22,10 +22,14 @@
                 {% endif %}
 
                 {% if region.subregions %}
-                {% for subregion in region.subregions %}
-                {% include bailfunds/anchor_header.html name = subregion.name type = "h3" %}
-                {% include bailfunds/listing.html listings = subregion.bailfunds %}
-                {% endfor %}
+                <div>
+                    {% for subregion in region.subregions %}
+                    <div>
+                        {% include bailfunds/anchor_header.html name = subregion.name type = "h3" %}
+                        {% include bailfunds/listing.html listings = subregion.bailfunds %}
+                    </div>
+                    {% endfor %}
+                </div>
                 {% endif %}
             </div>
             {% endfor %}
