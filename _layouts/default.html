@@ -6,12 +6,11 @@
 <body>
   <div class="wrapper">
     {%- include header.html -%}
-    <section>
-      <title>{{ page.title }}</title>
+    <main>
 
       {{ content }}
 
-    </section>
+    </main>
     {%- include footer.html -%}
   </div>
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

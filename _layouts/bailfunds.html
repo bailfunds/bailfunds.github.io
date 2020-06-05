@@ -6,14 +6,14 @@
 <body>
     <div class="wrapper">
         {%- include header.html -%}
-        <section>
+        <main>
             <h1>{{ page.title }}</h1>
 
             {{ content }}
 
             {%- assign regions = site.data.regions | sort -%}
             {%- for region_hash in regions -%}
-            <div>
+            <section>
                 {%- assign region = region_hash[1] -%}
                 {%- include bailfunds/anchor_header.html name = region.name type = "h2" -%}
 
@@ -31,10 +31,10 @@
                     {%- endfor -%}
                 </div>
                 {%- endif -%}
-            </div>
+            </section>
             {%- endfor -%}
 
-        </section>
+        </main>
         {%- include footer.html -%}
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
