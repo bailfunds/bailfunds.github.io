@@ -27,3 +27,9 @@
       bailfunds:
         - name: Texas Organizing Project Bailout Fund
           link: http://organizetexas.org/topcommunitybailoutfund/
+    - name: Houston
+      latitude: 29.7604
+      longitude: 95.3698
+      bailfunds:
+        - name: Houston Bail Fund
+          link: https://www.houstonbailfund.com/
