@@ -10,6 +10,7 @@ title: "List of Bail Funds for Protestors"
 ## National
 * [National Bail Fund Network](https://www.communityjusticeexchange.org/nbfn-directory) — *Available to assist with coordination*
 * [The Bail Project](https://secure.givelively.org/donate/the-bail-project) — *Centralized national organization with regular bail posting in a number of individual cities, which may be providing protest support depending on city and bail amounts*
+* [LGBTQ Fund](https://www.lgbtqfund.org) - *The Freedom Fund posts bond to secure the release and safety of LGBTQ people in jail and immigration detention*
 
 ## Alabama
 ### Birmingham
@@ -73,6 +74,7 @@ title: "List of Bail Funds for Protestors"
 
 ### Alachua County / Tallahassee
 * [Alachua County Bond Fund](https://actionnetwork.org/fundraising/alachua-county-covid-19-bond-fund)
+* [TCAC](https://www.facebook.com/tallycac/photos/a.919880808136325/1766224060168658/?type=3&theater)
 
 ### Duval County
 * [Jacksonville Community Action Committee](https://www.gofundme.com/f/duval-bail-out)
@@ -83,6 +85,7 @@ title: "List of Bail Funds for Protestors"
 
 ### Orlando
 * [Orlando Dream Defenders Bail Fund](https://www.paypal.me/otownsquadd)
+* [Orlando Community Bail Fund](https://communitybailfund.org)
 
 ### Tampa Bay
 * [Tampa Bay Community Support Fund](https://www.gofundme.com/f/tampa-bay-community-support-fund)
@@ -297,6 +300,7 @@ title: "List of Bail Funds for Protestors"
 
 ## Washington, District of Columbia
 * *Money bail is not used in Washington, DC*
+* Funding for legal support is available [here](https://www.gofundme.com/f/defendblmdc?utm_source=customer&utm_medium=copy_link&utm_campaign=m_pd%20share-sheet&fbclid=IwAR2EExXvCcpza3PYg88fCJyqOYq1sEAnSnkpf2E1PjE-LBbqkq33HItB6cM)
 
 ## Wisconsin
 ### Madison
