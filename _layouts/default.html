@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
-{% include head.html %}
+{%- include head.html -%}
 
 <body>
   <div class="wrapper">
-    {% include header.html %}
+    {%- include header.html -%}
     <section>
       <title>{{ page.title }}</title>
 
       {{ content }}
 
     </section>
-    {% include footer.html %}
+    {%- include footer.html -%}
   </div>
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-  {% include ganalytics.html %}
+  {%- include ganalytics.html -%}
 </body>
 
 </html>

@@ -1,5 +1,5 @@
-{% assign name = include.name %}
-{% assign stripped_name = name | url_encode %}
+{%- assign name = include.name -%}
+{%- assign stripped_name = name | url_encode -%}
 
 <{{ include.type }} id="{{ stripped_name }}">
 <div>

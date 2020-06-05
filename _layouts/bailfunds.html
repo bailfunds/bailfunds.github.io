@@ -1,44 +1,44 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
-{% include head.html %}
+{%- include head.html -%}
 
 <body>
     <div class="wrapper">
-        {% include header.html %}
+        {%- include header.html -%}
         <section>
             <h1>{{ page.title }}</h1>
 
             {{ content }}
 
-            {% assign regions = site.data.regions | sort %}
-            {% for region_hash in regions %}
+            {%- assign regions = site.data.regions | sort -%}
+            {%- for region_hash in regions -%}
             <div>
-                {% assign region = region_hash[1] %}
-                {% include bailfunds/anchor_header.html name = region.name type = "h2" %}
+                {%- assign region = region_hash[1] -%}
+                {%- include bailfunds/anchor_header.html name = region.name type = "h2" -%}
 
-                {% if region.bailfunds %}
-                {% include bailfunds/listing.html listings = region.bailfunds %}
-                {% endif %}
+                {%- if region.bailfunds -%}
+                {%- include bailfunds/listing.html listings = region.bailfunds -%}
+                {%- endif -%}
 
-                {% if region.subregions %}
+                {%- if region.subregions -%}
                 <div>
-                    {% for subregion in region.subregions %}
+                    {%- for subregion in region.subregions -%}
                     <div>
-                        {% include bailfunds/anchor_header.html name = subregion.name type = "h3" %}
-                        {% include bailfunds/listing.html listings = subregion.bailfunds %}
+                        {%- include bailfunds/anchor_header.html name = subregion.name type = "h3" -%}
+                        {%- include bailfunds/listing.html listings = subregion.bailfunds -%}
                     </div>
-                    {% endfor %}
+                    {%- endfor -%}
                 </div>
-                {% endif %}
+                {%- endif -%}
             </div>
-            {% endfor %}
+            {%- endfor -%}
 
         </section>
-        {% include footer.html %}
+        {%- include footer.html -%}
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% include ganalytics.html %}
+    {%- include ganalytics.html -%}
 </body>
 
 </html>
