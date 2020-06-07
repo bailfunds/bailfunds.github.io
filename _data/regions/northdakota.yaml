@@ -1,0 +1,11 @@
+---
+  name: North Dakota
+  latitude: 47.5515
+  longtitude: 101.0020
+  subregions:
+    - name: Fargo Area
+      latitude: 46.8772
+      longitude: 96.7898
+      bailfunds:
+        - name: Fargo Moorhead Mutual Aid
+          link: https://www.paypal.com/pools/c/8oLGbaaeqf
