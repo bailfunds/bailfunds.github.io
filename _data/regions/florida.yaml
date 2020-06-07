@@ -26,6 +26,12 @@
           link: https://www.paypal.me/freethemall
         - name: Florida LGBTQ Freedom Fund
           link: https://www.lgbtqfund.org/donate-1
+    - name: Naples
+      latitude: 26.1420
+      longtitude: 81.7948
+      bailfunds:
+        - name: Collier County Bail Fund
+          link: https://www.gofundme.com/f/collier-county-bail-fund
     - name: Orlando
       longitude: 28.5383
       latitude: 81.3792
