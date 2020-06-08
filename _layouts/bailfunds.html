@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{- site.lang | default: "en-US" -}}">
 
 {%- include head.html -%}
 
@@ -7,7 +7,7 @@
     <div class="wrapper">
         {%- include header.html -%}
         <section>
-            <h1>{{ page.title }}</h1>
+            <h1>{{- page.title -}}</h1>
 
             {{ content }}
 
@@ -28,7 +28,7 @@
                         {%- include bailfunds/anchor_header.html name = subregion.name type = "h3" -%}
                         {%- include bailfunds/listing.html listings = subregion.bailfunds -%}
                         {%- if subregion.note -%}
-                        <p><em>{{ subregion.note }}</em></p>                
+                        <p><em>{{- subregion.note -}}</em></p>                
                         {%- endif -%}
                     </div>
                     {%- endfor -%}
@@ -36,7 +36,7 @@
                 {%- endif -%}
 
                 {%- if region.note -%}
-                <p><em>{{ region.note }}</em></p>                
+                <p><em>{{- region.note -}}</em></p>                
                 {%- endif -%}
             </div>
             {%- endfor -%}
@@ -44,7 +44,7 @@
         </section>
         {%- include footer.html -%}
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{- "/assets/js/scale.fix.js" | relative_url -}}"></script>
     {%- include ganalytics.html -%}
 </body>
 

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{- site.lang | default: "en-US" -}}">
 
 {%- include head.html -%}
 
@@ -7,14 +7,14 @@
   <div class="wrapper">
     {%- include header.html -%}
     <section>
-      <title>{{ page.title }}</title>
+      <title>{{- page.title -}}</title>
 
       {{ content }}
 
     </section>
     {%- include footer.html -%}
   </div>
-  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  <script src="{{- "/assets/js/scale.fix.js" | relative_url -}}"></script>
   {%- include ganalytics.html -%}
 </body>
 
