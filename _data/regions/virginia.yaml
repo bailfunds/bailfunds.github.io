@@ -15,6 +15,12 @@
       bailfunds:
         - name: Roanoke Community Bail Fund
           link: https://chuffed.org/project/rjs-bail-fund
+    - name: Lynchburg
+      latitude: 37.4138
+      longitude: 79.1422
+      bailfunds: 
+        - name: Lynchburg Community Bail Fund
+          link: https://www.facebook.com/LyhBailFund/
     - name: Tidewater/Hampton Roads
       latitude: 36.8875
       longitude: 76.3125
