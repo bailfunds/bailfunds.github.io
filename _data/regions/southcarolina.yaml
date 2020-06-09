@@ -8,7 +8,7 @@
       longitude: 81.0348
       bailfunds:
         - name: Soda City Bail Fund
-          link: https://cash.app/$sodacitybail
+          link: http://sodacitybail.org
     - name: Charleston
       latitude: 32.7765
       longitude: 79.9311
