@@ -27,6 +27,8 @@
       bailfunds:
         - name: Peoples City Council Freedom Fund
           link: https://www.gofundme.com/f/peoples-city-council-ticket-fund
+        - name: Los Angeles Action Bail Fund
+          link: https://linktr.ee/actionbailfundla
     - name: San Diego
       longitude: 32.7157
       latitude: 117.1611
