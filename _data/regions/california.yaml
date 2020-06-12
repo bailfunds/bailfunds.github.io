@@ -13,18 +13,18 @@
           link: https://rally.org/ARCbailfund
         - name: Oakland's People's Breakfast Bail Fund
           link: https://linktr.ee/PBO
+    - name: Sacramento
+      longitude: 38.5816
+      latitude: 121.4944
+      bailfunds:
+        - name: NorCal Resist Activist BAIL & ICE Bond Fund
+          link: https://actionnetwork.org/fundraising/ncrbailfund/
     - name: San Jose/Silicon Valley
       latitude: 37.3382
       longitude: 121.8863
       bailfunds:
         - name: Silicon Valley DSA Bail Fund
           link: https://siliconvalleydsa.org/donations/
-    - name: Orange County
-      latitude: 33.7175
-      longitude: 117.8311
-      bailfunds:
-        - name: Orange County Bail Fund
-          link: https://www.gofundme.com/f/orange-county-bail-fund
     - name: Los Angeles
       latitude: 34.0522
       longitude: 118.2437
@@ -33,18 +33,18 @@
           link: https://www.gofundme.com/f/peoples-city-council-ticket-fund
         - name: Los Angeles Action Bail Fund
           link: https://linktr.ee/actionbailfundla
+    - name: Orange County
+      latitude: 33.7175
+      longitude: 117.8311
+      bailfunds:
+        - name: Orange County Bail Fund
+          link: https://www.gofundme.com/f/orange-county-bail-fund
     - name: San Diego
       longitude: 32.7157
       latitude: 117.1611
       bailfunds:
         - name: San Diego Community Fund
           link: https://www.gofundme.com/f/help-us-raise-funds-to-support-our-community
-    - name: Sacramento
-      longitude: 38.5816
-      latitude: 121.4944
-      bailfunds:
-        - name: NorCal Resist Activist BAIL & ICE Bond Fund
-          link: https://actionnetwork.org/fundraising/ncrbailfund/
     - name: San Luis Obispo
       longitude: 35.2828
       latitude: 120.6596
