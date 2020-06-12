@@ -6,7 +6,9 @@
     - name: IWOC Statewide Bail Fund
       link: https://www.gofundme.com/f/f12-protesters-support?fbclid=IwAR0KGDvQg6S_L6vAVOlyxrl6GZQs-JMcrsKVeu7J92gg959ZWNplP18PtTQ
   subregions:
-    - name: Alachua County / Tallahassee
+    - name: 
+      - Alachua County
+      - Tallahassee
       latitude: 30.4383
       longitude: 84.2807
       bailfunds:

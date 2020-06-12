@@ -21,7 +21,10 @@
       bailfunds:
         - name: Tarrant County Community Bail Fund
           link: https://actionnetwork.org/fundraising/tarrant-county-community-bail-fund
-    - name: Dallas, Houston, and San Antonio
+    - name: 
+      - Dallas
+      - Houston
+      - San Antonio
       latitude: 30.8801
       longitude: 96.8161
       bailfunds:

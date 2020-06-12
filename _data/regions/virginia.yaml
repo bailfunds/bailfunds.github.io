@@ -21,7 +21,9 @@
       bailfunds: 
         - name: Lynchburg Community Bail Fund
           link: https://www.facebook.com/LyhBailFund/
-    - name: Tidewater/Hampton Roads
+    - name: 
+      - Tidewater
+      - Hampton Roads
       latitude: 36.8875
       longitude: 76.3125
       bailfunds:

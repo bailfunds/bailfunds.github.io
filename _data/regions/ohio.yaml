@@ -3,7 +3,9 @@
   latitude: 40.4173
   longtitude: 82.9071
   subregions:
-    - name: Canton / Akron
+    - name: 
+      - Canton
+      - Akron
       latitude: 40.7989
       longitude: 81.3784
       bailfunds:

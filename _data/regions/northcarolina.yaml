@@ -19,7 +19,9 @@
       bailfunds:
         - name: North Carolina Community Bail Fund of Durham
           link: https://www.nccbailfund.org/
-    - name: Raleigh / Chapel Hill
+    - name: 
+      - Raleigh
+      - Chapel Hill
       latitude: 35.7796
       longitude: 78.6382
       bailfunds:

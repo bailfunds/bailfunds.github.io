@@ -19,7 +19,9 @@
       bailfunds:
         - name: NorCal Resist Activist BAIL & ICE Bond Fund
           link: https://actionnetwork.org/fundraising/ncrbailfund/
-    - name: San Jose/Silicon Valley
+    - name: 
+        - San Jose
+        - Silicon Valley
       latitude: 37.3382
       longitude: 121.8863
       bailfunds:

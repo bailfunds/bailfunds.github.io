@@ -3,7 +3,9 @@
   latitude: 41.4925
   longtitude: 99.9018
   subregions:
-    - name: Omaha and Lincoln
+    - name:
+      - Omaha
+      - Lincoln
       latitude: 41.2565
       longitude: 95.9345
       bailfunds:
