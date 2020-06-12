@@ -27,3 +27,9 @@
       bailfunds:
         - name: The Anti-Racist Activist Fund
           link: https://www.takeactionch.com/donations
+    - name: Forsyth County
+      latitude: 34.2359
+      longitude: 84.1435
+      bailfunds:
+        - name: Forsyth County Community Bail Fund
+          link: https://forsythcountycbf.org/
