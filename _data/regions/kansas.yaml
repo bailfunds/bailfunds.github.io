@@ -12,3 +12,9 @@
       bailfunds:
         - name: BLM Lawrence Bail Fund
           link: https://www.paypal.me/lawrencebailfund
+    - name: Wichita
+      latitude: 37.6872
+      longitude: 97.3301
+      bailfunds:
+        - name: Wichita Bail Fund
+          link: https://ictdsa.org/bail-fund
