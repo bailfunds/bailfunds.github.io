@@ -7,6 +7,5 @@
       latitude: 39.7684
       longitude: 86.1581
       bailfunds:
-        - name: The Bail Project
-          link: https://secure.givelively.org/donate/the-bail-project
-          note: This is a national project, but specifically helps people in Indianapolis
+        - name: BLM Indianapolis
+          link: https://m.facebook.com/Indy10People
