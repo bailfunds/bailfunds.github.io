@@ -9,3 +9,9 @@
       bailfunds:
         - name: BLM Indianapolis
           link: https://m.facebook.com/Indy10People
+    - name: Fort Wayne
+      latitude: 41.0793
+      longitude: 85.1394
+      bailfunds:
+        - name: Summit City Mutual Aid and Defense Fund
+          link: https://www.paypal.com/pools/c/8pCHfGXnRp
