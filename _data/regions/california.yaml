@@ -31,10 +31,11 @@
       latitude: 34.0522
       longitude: 118.2437
       bailfunds:
-        - name: Peoples City Council Freedom Fund
-          link: https://www.gofundme.com/f/peoples-city-council-ticket-fund
         - name: Los Angeles Action Bail Fund
           link: https://linktr.ee/actionbailfundla
+        - name: Peoples City Council Freedom Fund
+          link: https://www.gofundme.com/f/peoples-city-council-ticket-fund
+          note: This fund is currently closed to donations and redistributing funds to BLM LA, NLG, and other orgs to support ongoing protests (see more at link)
     - name: Orange County
       latitude: 33.7175
       longitude: 117.8311
