@@ -13,7 +13,7 @@
 
             {%- assign regions = site.data.regions | sort -%}
             {%- for region_hash in regions -%}
-            <div>
+            <div class="region">
                 {%- assign region = region_hash[1] -%}
                 {%- include bailfunds/anchor_header.html name = region.name type = "h2" -%}
 
@@ -22,9 +22,9 @@
                 {%- endif -%}
 
                 {%- if region.subregions -%}
-                <div>
+                <div class="subregions">
                     {%- for subregion in region.subregions -%}
-                    <div>
+                    <div class="subregion">
                         {% comment %} Check if it is a list {% endcomment %}
                         {%- if subregion.name.first -%}
                         {%- capture name -%} {{ subregion.name | join: ", " }} {%- endcapture -%}
