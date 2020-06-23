@@ -33,3 +33,9 @@
       bailfunds:
         - name: Forsyth County Community Bail Fund
           link: https://forsythcountycbf.org/
+    - name: Wilmington
+      latitude: 34.2104
+      longitude: 77.8868
+      bailfunds:
+        - name: Wilmington Protest Legal Fund
+          link: https://lincnc.org/protest-support/
