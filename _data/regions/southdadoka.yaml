@@ -1,0 +1,11 @@
+---
+  name: South Dakota
+  latitude: 43.9695
+  longtitude: 99.9018
+  subregions:
+    - name: Black Hills
+      latitude: 43.9939
+      longitude: 103.7718
+      bailfunds:
+        - name: Black Hills Bail & Legal Defense Fund
+          link: https://bhlegalfund.org/
