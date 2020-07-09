@@ -3,7 +3,9 @@
   latitude: 35.0078
   longtitude: 97.0929
   subregions:
-    - name: Oklahoma City & Tulsa
+    - name: 
+      - Oklahoma City
+      - Tulsa
       latitude: 36.1540
       longitude: 95.9928
       bailfunds:
