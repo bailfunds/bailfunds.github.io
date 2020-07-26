@@ -21,7 +21,7 @@
       bailfunds:
         - name: Tarrant County Community Bail Fund
           link: https://actionnetwork.org/fundraising/tarrant-county-community-bail-fund
-    - name: 
+    - name:
       - Dallas
       - Houston
       - San Antonio
@@ -36,3 +36,9 @@
       bailfunds:
         - name: Houston Bail Fund
           link: https://www.houstonbailfund.com/
+    - name: Austin
+      latitude: 30.2672
+      longitude: 97.7431
+      bailfunds:
+        - name: Mutual Aid Collective ATX
+          link: https://www.phly.co/public/N4MzTAyyrNQQE6JJy
