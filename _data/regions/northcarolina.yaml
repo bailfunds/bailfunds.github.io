@@ -19,14 +19,6 @@
       bailfunds:
         - name: North Carolina Community Bail Fund of Durham
           link: https://www.nccbailfund.org/
-    - name: 
-      - Raleigh
-      - Chapel Hill
-      latitude: 35.7796
-      longitude: 78.6382
-      bailfunds:
-        - name: The Anti-Racist Activist Fund
-          link: https://www.takeactionch.com/donations
     - name: Forsyth County
       latitude: 34.2359
       longitude: 84.1435
