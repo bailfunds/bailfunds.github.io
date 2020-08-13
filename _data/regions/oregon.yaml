@@ -11,3 +11,9 @@
           link: https://www.gofundme.com/f/pdx-protest-bail-fund
         - name: Portland Freedom Fund
           link: https://portlandfreedomfund.org/
+    - name: Eugene
+      latitude: 44.0521
+      longitude: 123.0868
+      bailfunds:
+        - name: Eugene Jail Support and Bail Fund 
+          link: https://venmo.com/EugeneBailFund
