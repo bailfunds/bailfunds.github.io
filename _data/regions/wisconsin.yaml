@@ -9,9 +9,9 @@
       bailfunds:
         - name: Free the 350 Bail Fund
           link: https://freethe350bailfund.wordpress.com/
-    - name: Milwaukee
+    - name: Milwaukee and Kenosha
       latitude: 43.0389
       longitude: 87.9065
       bailfunds:
-        - name: Milwaukee Freedom Fund
+        - name: Milwaukee Freedom Fund (Posting in Kenosha)
           link: https://supportwomenshealth.salsalabs.org/mkefreedomfund/index.html
