@@ -3,5 +3,8 @@
   latitude: 41.5801
   longtitude: 71.4774
   bailfunds:
+    - name: AMOR Bond Fund
+      link: https://secure.actblue.com/donate/freethemall
+      note: Providence Youth Student Movement (PrYSM) is the fiscal sponsor and one of the backbone organizations for AMOR. All funds raised will go directly to support AMOR's work
     - name: FANG Community Bail Fund
       link: https://www.gofundme.com/f/fangbailfund
