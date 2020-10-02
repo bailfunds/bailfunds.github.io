@@ -7,6 +7,8 @@
       latitude: 32.7767
       longitude: 96.7970
       bailfunds:
+        - name: Dallas Alliance Against Racist & Political Repression (NAARPR DFW) | Bail Fund
+          link: https://us.commitchange.com/tx/dallas/dfwalliance/campaigns/bail-fund
         - name: Luke 4:18 Bail Fund
           link: https://faithintx.org/bailfund/
     - name: El Paso
