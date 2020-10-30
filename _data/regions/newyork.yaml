@@ -17,12 +17,6 @@
       bailfunds:
         - name: Albany Bail Fund For Black Lives
           link: https://www.paypal.com/pools/c/8pAK2AzvDg
-    - name: Buffalo
-      latitude: 42.8864
-      longitude: 78.8784
-      bailfunds:
-        - name: SURJ Buffalo Bail Fund
-          link: https://fundrazr.com/11fcAd?ref=ab_e8vImf_ab_8dfq3zLk9z18dfq3zLk9z1
     - name: Rochester
       latitude: 43.1566
       longitude: 77.6088
