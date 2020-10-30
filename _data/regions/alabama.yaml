@@ -21,4 +21,9 @@
       bailfunds:
         - name: Montgomery Bail Out Fund
           link: https://www.mgmbailout.com/
-    
+    - name: Tuscaloosa
+      latitude: 33.2098
+      longitude: 87.5692
+      bailfunds:
+        - name: Tuscaloosa Bail Out
+          link: https://tuscaloosabailout.com/
