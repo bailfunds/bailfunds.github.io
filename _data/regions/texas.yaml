@@ -3,6 +3,12 @@
   latitude: 31.9686
   longtitude: 99.9018
   subregions:
+    - name: Austin
+      latitude: 30.2672
+      longitude: 97.7431
+      bailfunds:
+        - name: Mutual Aid Collective ATX
+          link: https://www.phly.co/public/N4MzTAyyrNQQE6JJy
     - name: Dallas
       latitude: 32.7767
       longitude: 96.7970
@@ -21,6 +27,12 @@
       bailfunds:
         - name: Tarrant County Community Bail Fund
           link: https://actionnetwork.org/fundraising/tarrant-county-community-bail-fund
+    - name: Houston
+      latitude: 29.7604
+      longitude: 95.3698
+      bailfunds:
+        - name: Houston Bail Fund
+          link: https://www.houstonbailfund.com/
     - name:
       - Dallas
       - Houston
@@ -30,15 +42,3 @@
       bailfunds:
         - name: Texas Organizing Project Bailout Fund
           link: http://organizetexas.org/topcommunitybailoutfund/
-    - name: Houston
-      latitude: 29.7604
-      longitude: 95.3698
-      bailfunds:
-        - name: Houston Bail Fund
-          link: https://www.houstonbailfund.com/
-    - name: Austin
-      latitude: 30.2672
-      longitude: 97.7431
-      bailfunds:
-        - name: Mutual Aid Collective ATX
-          link: https://www.phly.co/public/N4MzTAyyrNQQE6JJy
