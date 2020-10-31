@@ -3,14 +3,6 @@
   latitude: 40.4173
   longtitude: 82.9071
   subregions:
-    - name: 
-      - Canton
-      - Akron
-      latitude: 40.7989
-      longitude: 81.3784
-      bailfunds:
-        - name: Canton/Akron Bail Fund
-          link: https://www.paypal.com/pools/c/8pz5hovrmY
     - name: Cleveland
       latitude: 41.4993
       longitude: 81.6944
