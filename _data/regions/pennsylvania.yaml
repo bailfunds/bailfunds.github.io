@@ -9,12 +9,6 @@
       bailfunds:
         - name: Dauphin County Bail Fund
           link: https://dauphincountybailfund.org/
-    - name: Lancaster
-      latitude: 40.0379
-      longitude: 76.3055
-      bailfunds:
-        - name: "Lancaster Bail Fund for #BlackLivesMatter"
-          link: https://www.gofundme.com/f/lancaster-bail-fund
     - name: Philadelphia
       latitude: 39.9526
       longitude: 75.1652
