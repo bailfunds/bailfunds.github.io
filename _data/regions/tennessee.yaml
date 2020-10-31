@@ -13,9 +13,8 @@
       latitude: 35.9606
       longitude: 83.9207
       bailfunds:
-        - name: End Money Bail Knoxville Bail Fund
-          link: https://venmo.com/EndMoneyBail-Knoxville
-          note: Please caption "BLM"
+        - name: Appalachian Community Fund
+          link: https://venmo.com/Appalachian-CommunityFund
     - name: Memphis
       latitude: 35.1495
       longitude: 90.0490
