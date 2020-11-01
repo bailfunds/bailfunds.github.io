@@ -2,9 +2,6 @@
   name: Colorado
   latitude: 39.5501
   longtitude: 105.7821
-  bailfunds:
-    - name: Colorado Freedom Fund
-      link: https://fundly.com/coloradofreedom
   subregions:
     - name: Colorado Springs
       latitude: 38.8339
@@ -12,9 +9,11 @@
       bailfunds:
         - name: Colorado Springs Protest Support Fund
           link: http://chinookcenter.org/Colorado-springs-protest-support-fund/
-    - name: Denver
+    - name: 
+      - Denver
+      - Surrounding Counties
       latitude: 39.7392
       longitude: 104.9903
       bailfunds:
-        - name: BLM Denver Fund
-          link: https://www.gofundme.com/f/funds-for-protesters-against-police-brutality
+        - name: Colorado Freedom Fund
+          link: https://fundly.com/coloradofreedom
