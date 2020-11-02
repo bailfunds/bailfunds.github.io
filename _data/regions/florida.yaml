@@ -38,9 +38,3 @@
       bailfunds:
         - name: Orlando Dream Defenders Bail Fund
           link: https://www.paypal.me/otownsquadd
-    - name: Tampa Bay
-      longitude: 27.7634
-      latitude: 82.5437
-      bailfunds:
-        - name: Tampa Bay Community Support Fund
-          link: https://www.gofundme.com/f/tampa-bay-community-support-fund
