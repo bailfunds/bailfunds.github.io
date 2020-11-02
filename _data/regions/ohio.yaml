@@ -9,12 +9,14 @@
       bailfunds:
         - name: BLM Cleveland
           link: https://www.paypal.me/blmcle
-    - name: Columbus
+    - name: 
+      - Columbus
+      - Surrounding Counties
       latitude: 39.9612
       longitude: 82.9988
       bailfunds:
-        - name: Columbus Freedom Fund
-          link: https://www.paypal.me/columbusfreedomfund
+        - name: Central Ohio Freedom Fund
+          link: https://www.centralohiofreedomfund.org/
     - name: Cincinnati
       latitude: 39.1031
       longitude: 84.5120
