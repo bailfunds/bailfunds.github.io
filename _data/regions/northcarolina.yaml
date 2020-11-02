@@ -19,6 +19,12 @@
       bailfunds:
         - name: North Carolina Community Bail Fund of Durham
           link: https://www.nccbailfund.org/
+    - name: Alamance County
+      latitude: 36.0117
+      longitude: 79.4254
+      bailfunds: 
+        - name: Alamance County Community Bail Fund
+        - link: https://secure.everyaction.com/5rvu3q3DREqp81u9x_CG9g2
     - name: Forsyth County
       latitude: 34.2359
       longitude: 84.1435
